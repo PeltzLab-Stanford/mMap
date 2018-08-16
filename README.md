@@ -33,7 +33,7 @@
     
     R (see R folder for more information)
 
-# Contact
+# contact
 
    email: aarslan@stanford.edu -- or--
    visit: http://med.stanford.edu/peltzlab/
