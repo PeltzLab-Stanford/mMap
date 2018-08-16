@@ -25,7 +25,7 @@
    
    PS: The Functional data folder contains a help file for more information
       
-      The Regulatory data folder contains a help file for more information
+   The Regulatory data folder contains a help file for more information
          
 # compatibility
 
