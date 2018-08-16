@@ -24,6 +24,7 @@
    python3 -nc 'filename.txt'  #in the Exmaple datafiles "regulatory.txt" format
    
    PS: The Functional data folder contains a help file for more information
+      The Regulatory data folder contains a help file for more information
          
 # compatibility
 
