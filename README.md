@@ -40,6 +40,4 @@
 
    email: aarslan@stanford.edu 
    
-   -- or--
-   
    visit: http://med.stanford.edu/peltzlab/
