@@ -1,0 +1,40 @@
+# headings
+    Gene = Genes with functional mutations
+    PFF = Protein Functional Features
+    MAA = Mutated Amino Acid	
+    D-PFF = Description of Protein Functional Features (see below for details)
+
+# details 
+      Initiator methionine	Cleaved initiator methionine
+      Signal	Sequence targeting proteins to the secretory pathway or periplasmic space
+      Propeptide	Part of a protein that is cleaved during maturation or activation
+      Transit peptide	Extent of a transit peptide for organelle targeting
+      Chain	Extent of a polypeptide chain in the mature protein
+      Peptide	Extent of an active peptide in the mature protein
+      Modified residue	Modified residues excluding lipids, glycans and protein crosslinks
+      Lipidation	Covalently attached lipid group(s)
+      Glycosylation	Covalently attached glycan group(s)
+      Disulfide bond	Cysteine residues participating in disulfide bonds
+      Cross-link	Residues participating in covalent linkage(s) between proteins
+      Post-translational modification	Description of post-translational modifications
+      Keywords ‘PTM’	Selection of controlled vocabulary which summarises the content of an entry
+      Proteomics and PTM databases	Selection of cross-references that point to data collections other than UniProtKB
+      Function	General function(s) of a protein
+      Catalytic activity	Reaction(s) catalyzed by an enzyme
+      Cofactor	Non-protein substance required for enzyme activity
+      Enzyme regulation	Enzyme regulatory mechanism
+      Biophysicochemical properties	Biophysical and physicochemical properties
+      Pathway	Associated metabolic pathways
+      Active site	Amino acid(s) directly involved in the activity of an enzyme
+      Metal binding	Binding site for a metal ion
+      Binding site	Binding site for any chemical group (co-enzyme, prosthetic group, etc.)
+      Site	Any interesting single amino acid site on the sequence
+      Calcium binding	Position(s) of calcium binding region(s) within the protein
+      Zinc finger	Position(s) and type(s) of zinc fingers within the protein
+      DNA binding	Position and type of a DNA-binding domain
+      Enzyme and pathway databases	Selection of cross-references that point to data collections other than UniProtKB
+      Family databases	Selection of cross-references that point to data collections other than UniProtKB
+      Turn	Turns within the experimentally determined protein structure
+      Beta strand	Beta strand regions within the experimentally determined protein structure
+      Helix	Helical regions within the experimentally determined protein structure
+      3D structure databases	Cross-references that point to data collections other than UniProtKB (i.e. PDB)
