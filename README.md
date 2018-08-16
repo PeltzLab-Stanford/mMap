@@ -21,7 +21,7 @@
    # commends
    python3 -g 'filename.txt' #in the Exmaple datafiles "gene.txt" format
    
-   python3 -r 'filename.txt'  #in the Exmaple datafiles "regulatory.txt" format
+   python3 -nc 'filename.txt'  #in the Exmaple datafiles "regulatory.txt" format
          
 # compatibility
 
