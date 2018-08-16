@@ -1,0 +1,17 @@
+Ctps2	526
+Rabep1	1
+Gprc5a	349
+Ptpn20	329
+Pum1	850
+Pwwp2a	631
+Oca2	766
+Pstk	30
+Ptprd	200
+Cacybp	2
+Mt-Cyb	83
+Crtc2	277
+Cyth3	282
+Creb3l1	291
+Tmem63a	665
+Dnajc5	18
+Dnajc1	330	
