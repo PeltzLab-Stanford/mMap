@@ -2,7 +2,7 @@
 
    Python implementation of Mouse Genotype to Phenotype mapping method for the prioritizing the genetic candidates based on the protein functional and genomic regulatory features
 
-# Use
+# use
 
     The package can be used to analyse the impact of mutations on the protein functional regions like domains and PTM sites. Also, for regulatory regions like  Promoter, enhancer etc.
     
@@ -27,8 +27,13 @@
 
     The package is compatibility with both Windows and Mac setup. 
     
-# Requirements
+# requirements
 
     python 3 
     
     R (see R folder for more information)
+
+# Contact
+
+   email: aarslan@stanford.edu -- or--
+   visit: http://med.stanford.edu/peltzlab/
