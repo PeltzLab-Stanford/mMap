@@ -18,10 +18,12 @@
             cpgIsland.txt
             insulator-CTCF-binding-sites.txt
             
-   # commends
+   # instructions
    python3 -g 'filename.txt' #in the Exmaple datafiles "gene.txt" format
    
    python3 -nc 'filename.txt'  #in the Exmaple datafiles "regulatory.txt" format
+   
+   PS: The Functional data folder contains a help file for more information
          
 # compatibility
 
