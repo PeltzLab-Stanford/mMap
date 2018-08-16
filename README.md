@@ -1,6 +1,6 @@
 # Introduction
 
-    Computational tool the prioritizing the genetic candidates based on the protein functional and genomic regulatory features
+   Python implementation of Mouse Genotype to Phenotype mapping method for the prioritizing the genetic candidates based on the protein functional and genomic regulatory features
 
 # Use
 
