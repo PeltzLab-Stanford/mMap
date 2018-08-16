@@ -4,4 +4,13 @@
 
 # Use
 
-    The 
+    The package can be used to analyse the impact of mutations on the protein functional regions like 
+# compatibility
+
+    The package is compatibility with both Windows and Mac setup. 
+    
+# Requirements
+
+    python 3 
+    
+    R (see R folder for more information)
