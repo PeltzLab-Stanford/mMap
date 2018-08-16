@@ -6,11 +6,13 @@ library(reticulate)
 os <- import("os")
 
 #Path to the folder
-os$chdir("/Users/ahmedarslan/Downloads/updated_MacWin")
+os$chdir("/path/to/folder/mMap")
 
 #import package
-mod <- import_from_path("mousepycage", path = ".", convert = TRUE)
+mod <- import_from_path("mmapR.py", path = ".", convert = TRUE)
 
 mod$gene_mutation('genes.txt')
 
-mod$nocode_mutation("regulatory.txt") TODO files-move
+mod$nocode_mutation("regulatory.txt")
+
+PS: See file tree to run mMap successfully
