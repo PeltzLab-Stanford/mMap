@@ -38,5 +38,8 @@
 
 # contact
 
-   email: aarslan@stanford.edu -- or--
+   email: aarslan@stanford.edu 
+   
+   -- or--
+   
    visit: http://med.stanford.edu/peltzlab/
