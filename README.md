@@ -11,6 +11,7 @@
          mmap.py
          Functional.txt
          Phenotype.txt
+         user's input data-file.txt
          ./Regulatory/
             Vista_enhancers_flankinGenes.txt
             EPDnew_promoter.txt
