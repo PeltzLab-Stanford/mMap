@@ -26,7 +26,7 @@ def gene_file(genefile):
 			p = ge.name
 			p1 = p.split('.')
 			p2 = p1[0].split("_")
-			with open(os.path.join("Functional.txt")) as rr:
+			with open(os.path.join(wd+'/'+"Functional datafiles"+"/"+"Functional-data.txt")) as rr:
 				for r in rr:
 					r = r.rstrip().split("\t")
 					if g[0] == r[-1] and int(g[1]) >= int(r[2]) and int(r[3]) >= int(g[1]):
@@ -47,7 +47,7 @@ def downstream(func_file):
 			p = gg.name
 			p1 = p.split('.')
 			p2 = p1[0].split("_")
-			with open(os.path.join("Phenotype.txt")) as rr:  
+			with open(os.path.join(wd+'/'+"Functional datafiles"+"/"+"Phenotype.txt")) as rr:  
 				for r in rr:
 					d =  r.rstrip().split("\t")
 					if d[0] == g[0]:
