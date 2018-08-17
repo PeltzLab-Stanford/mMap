@@ -118,9 +118,9 @@ def noncoding(genefile):
         			p = mut.name
         			p1 = p.split('.')
         			c.append('%s %s' % (a[0], a[1]))
-	vista = []
 	for m in c:
 		m = m.rstrip().split()
+		vista = []
 		with open(os.path.join(wd+'/'+'Regulatory datafiles'+'/'+'Vista_enhancers_flankinGenes.txt')) as vi:
 			for v in vi:
 				v = v.rstrip().split('\t')
