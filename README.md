@@ -31,13 +31,13 @@ The package can be used to analyse the impact of mutations on the protein functi
          
 # compatibility
 
-    The package is compatibility with both Windows and Mac setup. 
+ The package is compatibility with both Windows and Mac setup. 
     
 # requirements
 
-    python 3 
+   python 3 
     
-    R (see R folder for more information)
+   R (see R folder for more information)
 
 # contact
 
