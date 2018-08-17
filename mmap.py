@@ -121,7 +121,7 @@ def noncoding(genefile):
 	vista = []
 	for m in c:
 		m = m.rstrip().split()
-		with open(os.path.join(wd+'/'+'Regulatory'+'/'+'Vista_enhancers_flankinGenes.txt')) as vi:
+		with open(os.path.join(wd+'/'+'Regulatory datafiles'+'/'+'Vista_enhancers_flankinGenes.txt')) as vi:
 			for v in vi:
 				v = v.rstrip().split('\t')
 				if m[0] == v[0] and m[1] >= v[1] and v[2] >= m[1]:
@@ -129,7 +129,7 @@ def noncoding(genefile):
 					with open(p1[0]+"_regulatory-analysis.txt", 'a') as k:
 						k.write('\t'.join(vista)+'\n')
 		pro = []
-		with open(os.path.join(wd+'/'+'Regulatory'+'/'+'EPDnew_promoter.txt')) as vi:
+		with open(os.path.join(wd+'/'+'Regulatory datafiles'+'/'+'EPDnew_promoter.txt')) as vi:
 			for v in vi:
 				v = v.rstrip().split('\t')
 				if m[0] == v[0] and m[1] >= v[1] and v[2] >= m[1]:
@@ -137,7 +137,7 @@ def noncoding(genefile):
 					with open(p1[0]+"_regulatory-analysis.txt", 'a+') as k:
 						k.write('\t'.join(pro)+'\n')
 		tss= [] 
-		with open(os.path.join(wd+'/'+'Regulatory'+'/'+'TSS_promoter.txt')) as vi:
+		with open(os.path.join(wd+'/'+'Regulatory datafiles'+'/'+'TSS_promoter.txt')) as vi:
 			for v in vi:
 				v = v.rstrip().split('\t')
 				if m[0] == v[0] and m[1] == v[2]:
@@ -145,7 +145,7 @@ def noncoding(genefile):
 					with open(p1[0]+"_regulatory-analysis.txt", 'a+') as k:
 						k.write('\t'.join(tss)+'\n')
 		cpg = []	
-		with open(os.path.join(wd+'/'+'Regulatory'+'/'+'cpgIsland.txt')) as vi:
+		with open(os.path.join(wd+'/'+'Regulatory datafiles'+'/'+'cpgIsland.txt')) as vi:
 			for v in vi:
 				v = v.rstrip().split('\t')
 				if m[0] == v[0] and m[1] >= v[1] and v[2] >= m[1]:
@@ -153,7 +153,7 @@ def noncoding(genefile):
 					with open(p1[0]+"_regulatory-analysis.txt", 'a+') as k:
 						k.write('\t'.join(cpg)+'\n')
 		ctcf = []
-		with open(os.path.join(wd+'/'+'Regulatory'+'/'+'insulator-CTCF-binding-sites.txt')) as vi:
+		with open(os.path.join(wd+'/'+'Regulatory datafiles'+'/'+'insulator-CTCF-binding-sites.txt')) as vi:
 			for v in vi:
 				v = v.rstrip().split('\t')
 				if m[0] == v[0] and m[1] >= v[1] and v[2] >= m[1]:
@@ -258,7 +258,7 @@ def gene_mutation(genefile):
 	try:
 			gene_file(os.path.join(genefile))
 
-			downstream(os.path.join(p2[0]+"_functional-accessment.txt"))
+			downstream(os.path.join(p2[0]+"_phenotype_accessment.txt"))
 
 			network(os.path.join(p2[0]+"_functional-accessment.txt"))
 	except IOError:
