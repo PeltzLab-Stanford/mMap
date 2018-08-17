@@ -264,10 +264,11 @@ def gene_mutation(genefile):
 
 	try:
 			gene_file(os.path.join(genefile))
+			
+			network(os.path.join(p2[0]+"_functional-accessment.txt"))
 
 			downstream(os.path.join(p2[0]+"_functional-accessment.txt"))
-
-			network(os.path.join(p2[0]+"_functional-accessment.txt"))
+			
 	except IOError:
 			pass
 
