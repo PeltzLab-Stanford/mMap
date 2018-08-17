@@ -1,7 +1,17 @@
 
 https://rstudio.github.io/reticulate/articles/introduction.html
 
-Same file tree/dir setup as python code
+  File tree
+  ./mmap/
+     mmapR.py
+     user's input data-file.txt
+     /Functional datafiles/Functional-data.txt
+     /Functional datafiles/Phenotype.txt
+     /Regulatory datafiles/Vista_enhancers_flankinGenes.txt
+     /Regulatory datafiles/EPDnew_promoter.txt
+     /Regulatory datafiles/TSS_promoter.txt
+     /Regulatory datafiles/cpgIsland.txt
+     /Regulatory datafiles/insulator-CTCF-binding-sites.txt
 
 library(reticulate)
 
