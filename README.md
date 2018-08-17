@@ -9,15 +9,14 @@
       File tree
       ./mmap/
          mmap.py
-         Functional.txt
-         Phenotype.txt
          user's input data-file.txt
-         ./Regulatory/
-            Vista_enhancers_flankinGenes.txt
-            EPDnew_promoter.txt
-            TSS_promoter.txt
-            cpgIsland.txt
-            insulator-CTCF-binding-sites.txt
+         /Functional datafiles/Functional-data.txt
+         /Functional datafiles/Phenotype.txt
+         /Regulatory datafiles/Vista_enhancers_flankinGenes.txt
+         /Regulatory datafiles/EPDnew_promoter.txt
+         /Regulatory datafiles/TSS_promoter.txt
+         /Regulatory datafiles/cpgIsland.txt
+         /Regulatory datafiles/insulator-CTCF-binding-sites.txt
             
    # instructions
    python3 -g 'filename.txt' #in the Exmaple datafiles "gene.txt" format
