@@ -28,7 +28,7 @@ def gene_file(genefile):
 			p = ge.name
 			p1 = p.split('.')
 			p2 = p1[0].split("_")
-			with open(os.path.join("Functional-data.txt")) as rr:
+			with open(os.path.join(wd+'/'+"Functional datafiles"+"/"+"Functional-data.txt")) as rr:
 				for r in rr:
 					r = r.rstrip().split("\t")
 					if g[0] == r[-1] and int(g[1]) >= int(r[2]) and int(r[3]) >= int(g[1]):
@@ -50,7 +50,7 @@ def downstream(func_file):
 			p = gg.name
 			p1 = p.split('.')
 			p2 = p1[0].split("_")
-			with open(os.path.join("Phenotype.txt")) as rr:  
+			with open(os.path.join(wd+'/'+"Functional datafiles"+"/"+"Phenotype.txt")) as rr:  
 				for r in rr:
 					d =  r.rstrip().split("\t")
 					if d[0] == g[0]:
@@ -124,7 +124,7 @@ def noncoding(genefile): #takes the noncoding variatsion into account to map to 
 	vista = []
 	for m in c:
 		m = m.rstrip().split()
-		with open(os.path.join(wd+'/'+'Regulatory'+'/'+'Vista_enhancers_flankinGenes.txt')) as vi:
+		with open(os.path.join(wd+'/'+'Regulatory datafiles'+'/'+'Vista_enhancers_flankinGenes.txt')) as vi:
 			for v in vi:
 				v = v.rstrip().split('\t')
 				if m[0] == v[0] and m[1] >= v[1] and v[2] >= m[1]:
@@ -133,7 +133,7 @@ def noncoding(genefile): #takes the noncoding variatsion into account to map to 
 						k.write('\t'.join(vista)+'\n')
 				#		print(vista)
 		pro = []
-		with open(os.path.join(wd+'/'+'Regulatory'+'/'+'EPDnew_promoter.txt')) as vi:
+		with open(os.path.join(wd+'/'+'Regulatory datafiles'+'/'+'EPDnew_promoter.txt')) as vi:
 			for v in vi:
 				v = v.rstrip().split('\t')
 				if m[0] == v[0] and m[1] >= v[1] and v[2] >= m[1]:
@@ -142,7 +142,7 @@ def noncoding(genefile): #takes the noncoding variatsion into account to map to 
 						k.write('\t'.join(pro)+'\n')
 				#		print(pro)
 		tss= [] 
-		with open(os.path.join(wd+'/'+'Regulatory'+'/'+'TSS_promoter.txt')) as vi:
+		with open(os.path.join(wd+'/'+'Regulatory datafiles'+'/'+'TSS_promoter.txt')) as vi:
 			for v in vi:
 				v = v.rstrip().split('\t')
 				if m[0] == v[0] and m[1] == v[2]:
@@ -151,7 +151,7 @@ def noncoding(genefile): #takes the noncoding variatsion into account to map to 
 						k.write('\t'.join(tss)+'\n')
 				#		print(tss)
 		cpg = []	
-		with open(os.path.join(wd+'/'+'Regulatory'+'/'+'cpgIsland.txt')) as vi:
+		with open(os.path.join(wd+'/'+'Regulatory datafiles'+'/'+'cpgIsland.txt')) as vi:
 			for v in vi:
 				v = v.rstrip().split('\t')
 				if m[0] == v[0] and m[1] >= v[1] and v[2] >= m[1]:
@@ -160,7 +160,7 @@ def noncoding(genefile): #takes the noncoding variatsion into account to map to 
 						k.write('\t'.join(cpg)+'\n')
 					#	print(cpg)
 		ctcf = []
-		with open(os.path.join(wd+'/'+'Regulatory'+'/'+'insulator-CTCF-binding-sites.txt')) as vi:
+		with open(os.path.join(wd+'/'+'Regulatory datafiles'+'/'+'insulator-CTCF-binding-sites.txt')) as vi:
 			for v in vi:
 				v = v.rstrip().split('\t')
 				if m[0] == v[0] and m[1] >= v[1] and v[2] >= m[1]:
