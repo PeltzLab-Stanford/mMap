@@ -9,7 +9,7 @@ os <- import("os")
 os$chdir("/path/to/folder/mMap")
 
 #import package
-mod <- import_from_path("mmapR.py", path = ".", convert = TRUE)
+mod <- import_from_path("mmapR", path = ".", convert = TRUE)
 
 mod$gene_mutation('genes.txt') #see example-data folder for gene.txt file format
 
