@@ -1,6 +1,8 @@
 
 https://rstudio.github.io/reticulate/articles/introduction.html
 
+Same file tree/dir setup as python code
+
 library(reticulate)
 
 os <- import("os")
