@@ -160,7 +160,7 @@ def noncoding(genefile):
 					ctcf.append('%s %s %s %s %s' % (v[0], m[1], v[-2], v[-1], 'Insulator'))
 					with open(p1[0]+"_regulatory-analysis.txt", 'a+') as k:
 						k.write('\t'.join(ctcf)+'\n')
-						print(ctcf)
+						#print(ctcf)
 
 
 def ncnetwork(functional):
