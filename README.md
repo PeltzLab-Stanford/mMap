@@ -19,9 +19,9 @@ The package can be used to analyse the impact of mutations on the protein functi
          /Regulatory datafiles/insulator-CTCF-binding-sites.txt
             
    # instructions
-   python3 -g 'filename.txt' #in the Exmaple datafiles "gene.txt" format
+   python3 mmap.py -g 'filename.txt' #in the Exmaple datafiles "gene.txt" format
    
-   python3 -nc 'filename.txt'  #in the Exmaple datafiles "regulatory.txt" format
+   python3 mmap.py -nc 'filename.txt'  #in the Exmaple datafiles "regulatory.txt" format
    
    PS: 
    
