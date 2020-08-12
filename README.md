@@ -43,4 +43,4 @@ The package can be used to analyse the impact of mutations on the protein functi
 
    email: aarslan@stanford.edu 
    
-   visit: https://peltzlab.stanford.edu/
+   visit: https://mmap.stanford.edu/
