@@ -33,8 +33,8 @@
 The package can be used to analyse the impact of mutations on the protein functional regions like domains and PTM sites. Also, for regulatory regions like  Promoter, enhancer etc.
     
       File tree
-      ./mmap/
-         mmap.py
+      ./mgmap/
+         mgmap.py
          user's input data-file.txt
          /Functional datafiles/Functional-data.txt
          /Functional datafiles/conservation/
