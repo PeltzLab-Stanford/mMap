@@ -9,10 +9,10 @@
             
 # instructions
             
-   python3 mgmap.py -g filename.txt #in the Exmaple datafiles "gene.txt" format
+   python3 mgmap.py -g filename.txt (see *Exmaple* datafiles "gene.txt" for exact format)
    
             
-   python3 mmgap.py -nc filename.txt  #in the Exmaple datafiles "regulatory.txt" format
+   python3 mmgap.py -nc filename.txt (see *Exmaple* datafiles "regulatory.txt" for exact format)
    
    PS: 
    
