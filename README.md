@@ -1,38 +1,38 @@
 # Introduction
 
-    Python implementation of Mouse Genome Phenotype to Genotype mapping method for the prioritizing the genetic candidates based on the protein functional and           genomic regulatory features
+   Python implementation of Mouse Genome Phenotype to Genotype mapping method for the prioritizing the genetic candidates based on the protein functional and          genomic regulatory features
 
 # installation
    
-    pip install -i https://test.pypi.org/simple/ mgMap==0.0.2 --target=/path/where/to/install/ && cd mgmap
+   pip install -i https://test.pypi.org/simple/ mgMap==0.0.2 --target=/path/where/to/install/ && cd mgmap
             
             
 # instructions
             
-    python3 mgmap.py -g filename.txt #in the Exmaple datafiles "gene.txt" format
+   python3 mgmap.py -g filename.txt #in the Exmaple datafiles "gene.txt" format
    
             
-    python3 mmgap.py -nc filename.txt  #in the Exmaple datafiles "regulatory.txt" format
+   python3 mmgap.py -nc filename.txt  #in the Exmaple datafiles "regulatory.txt" format
    
-    PS: 
+   PS: 
    
-    The Functional data folder contains a help file for more information
+   The Functional data folder contains a help file for more information
       
-    The Regulatory data folder contains a help file for more information
+   The Regulatory data folder contains a help file for more information
          
 # compatibility
 
-    The package is compatibility with both Windows and Mac setup. 
+   The package is compatibility with both Windows and Mac setup. 
     
 # requirements
 
-    python 3 
+   python 3 
     
-    R (see R folder for more information)
+   R (see R folder for more information)
 
 # tree
 
-    The package can be used to analyse the impact of mutations on the protein functional regions like domains and PTM sites. Also, for regulatory regions               like Promoter, enhancer etc.
+   The package can be used to analyse the impact of mutations on the protein functional regions like domains and PTM sites. Also, for regulatory regions                like Promoter, enhancer etc.
     
       File tree
       ./mgmap/
@@ -50,6 +50,6 @@
 
 # contact
 
-    email: aarslan@stanford.edu 
+   email: aarslan@stanford.edu 
    
-    visit: https://mmap.stanford.edu/
+   visit: https://mmap.stanford.edu/
