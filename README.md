@@ -1,4 +1,4 @@
-![](Example results/mmap.png)
+![](Example%20results/mmap.png)
 
 # Introduction
 
