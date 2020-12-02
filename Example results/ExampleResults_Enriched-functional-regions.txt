@@ -1,0 +1,8 @@
+Domain	1.37E-29
+Disulfide bond	9.56E-28
+Helix	2.21E-11
+Signal peptide	1.44E-10
+Region	2.07E-9
+Transmembrane	1.54E-3
+Turn	2.52E-2
+Glycosylation	2.58E-2

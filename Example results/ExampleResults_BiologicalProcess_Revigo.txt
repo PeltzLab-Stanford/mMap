@@ -1,0 +1,22 @@
+GO:0003008	"system process"	0.660%	 3.357	-5.097	4.928	-2.0555	0.820	0.000	3008	0
+GO:0030154	"cell differentiation"	1.133%	-0.726	-5.892	5.162	-2.0862	0.768	0.000	30154	0
+GO:1901698	"response to nitrogen compound"	0.178%	-5.631	 1.784	4.359	-2.1249	0.596	0.000	1901698	0
+GO:0045899	"positive regulation of RNA polymerase II transcriptional preinitiation complex assembly"	0.013%	 4.522	 5.541	3.227	-2.0555	0.676	0.024	45899	0
+GO:0007196	"adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway"	0.002%	-0.881	 3.164	2.484	-2.1249	0.558	0.217	7196	0
+GO:0033135	"regulation of peptidyl-serine phosphorylation"	0.023%	 2.588	 6.807	3.479	-2.0044	0.695	0.220	33135	0
+GO:0033141	"positive regulation of peptidyl-serine phosphorylation of STAT protein"	0.003%	null	null	2.551	-2.0555	0.449	0.747	33135	1
+GO:0071495	"cellular response to endogenous stimulus"	0.402%	-5.144	 3.762	4.712	-2.0555	0.649	0.312	71495	0
+GO:0010646	"regulation of cell communication"	0.929%	 4.471	 3.403	5.076	-2.0555	0.626	0.318	10646	0
+GO:0023051	"regulation of signaling"	0.934%	 3.412	 3.677	5.079	-2.0555	0.635	0.328	23051	0
+GO:1904322	"cellular response to forskolin"	0.002%	-5.378	-0.055	2.346	-2.0555	0.626	0.390	1904322	0
+GO:0046883	"regulation of hormone secretion"	0.040%	 4.129	 1.342	3.709	-2.1487	0.534	0.402	46883	0
+GO:0046887	"positive regulation of hormone secretion"	0.017%	null	null	3.349	-2.1249	0.525	0.921	46883	1
+GO:0045906	"negative regulation of vasoconstriction"	0.001%	 4.271	-1.800	2.215	-2.0655	0.661	0.448	45906	0
+GO:0061478	"response to platelet aggregation inhibitor"	0.022%	-5.739	 0.831	3.448	-2.0555	0.633	0.457	61478	0
+GO:0051716	"cellular response to stimulus"	9.561%	-5.143	 2.808	6.089	-2.0555	0.564	0.469	51716	0
+GO:0007165	"signal transduction"	6.621%	null	null	5.929	-2.1249	0.346	0.729	51716	1
+GO:1900273	"positive regulation of long-term synaptic potentiation"	0.001%	 4.839	 2.069	2.130	-2.0044	0.586	0.568	1900273	0
+GO:0071310	"cellular response to organic substance"	0.651%	-5.142	 1.488	4.922	-2.0555	0.517	0.594	71310	0
+GO:0014070	"response to organic cyclic compound"	0.227%	null	null	4.464	-2.0555	0.563	0.839	71310	1
+GO:0030183	"B cell differentiation"	0.021%	 1.552	-5.420	3.433	-2.0555	0.665	0.601	30183	0
+GO:0002323	"natural killer cell activation involved in immune response"	0.004%	null	null	2.719	-2.0555	0.618	0.723	30183	1

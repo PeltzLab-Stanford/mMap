@@ -1,8 +1,0 @@
-Sim1	Domain	50	bHLH
-Oca2	Transmembrane	766	Helical
-Crkl	Domain	100	SH2
-Galnt3	Domain	600	Ricin B-type lectin
-Rabep1	Initiator methionine	1	Removed
-Pstk	Nucleotide binding	30	ATP
-Mt-Cyb	Transmembrane	83	Helical
-Mt-Cyb	Metal binding	83	Iron 1 (heme b562 axial ligand)

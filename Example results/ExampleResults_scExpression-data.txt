@@ -1,0 +1,119 @@
+Tiam2	Neural stem/precursor cells	8
+Tiam2	Neurons	5
+Tiam2	Hepatocytes	4
+Tiam2	Osteoblasts	3
+Tiam2	Fibroblasts	2
+Tiam2	Chondrocytes	1
+Tiam2	Keratinocytes	1
+Tiam2	Urothelial cells	1
+Tiam2	Basal cells	1
+Tiam2	Enterocytes	1
+Nos1	Neurons	6
+Nos1	Purkinje neurons	1
+Nos1	Interneurons	1
+Ahr	Dendritic cells	13
+Ahr	Endothelial cells	11
+Ahr	Keratinocytes	11
+Ahr	Macrophages	8
+Ahr	Hepatocytes	5
+Ahr	Fibroblasts	4
+Ahr	Mammary epithelial cells	3
+Ahr	Clara cells	3
+Ahr	Urothelial cells	2
+Ahr	Basal cells	1
+Ahr	Schwann cells	1
+Dab2	Macrophages	212
+Dab2	Endothelial cells	80
+Dab2	Alveolar macrophages	61
+Dab2	Proximal tubule cells	36
+Dab2	Fibroblasts	28
+Dab2	Microglia	23
+Dab2	Mesothelial cells	15
+Dab2	Kupffer cells	13
+Dab2	Intercalated cells	10
+Dab2	Mammary epithelial cells	6
+Dab2	Red pulp macrophages	5
+Dab2	Choroid plexus cells	4
+Dab2	Neutrophils	4
+Dab2	Principal cells	3
+Dab2	Smooth muscle cells	2
+Dab2	B cells	2
+Dab2	Germ cells	1
+Dab2	Epithelial cells	1
+Dab2	Chondrocytes	1
+Dab2	Meningeal cells	1
+Dab2	Podocytes	1
+Dab2	Vascular smooth muscle cells	1
+Dab2	Dendritic cells	1
+Dab2	Endothelial cells (aorta)	1
+Dab2	Neurons	1
+Mreg	Keratinocytes	30
+Mreg	Dendritic cells	10
+Mreg	Hepatocytes	9
+Mreg	Germ cells	5
+Mreg	Urothelial cells	4
+Mreg	Macrophages	3
+Mreg	Basal cells	1
+Mreg	Beta cells	1
+Mreg	Neutrophils	1
+Mreg	Epithelial cells	1
+Mreg	Enteroendocrine cells	1
+Creb1	Trigeminal neurons	3
+Creb1	T memory cells	3
+Creb1	Keratinocytes	3
+Creb1	Hepatocytes	3
+Creb1	Paneth cells	2
+Creb1	Macrophages	2
+Creb1	Enterocytes	1
+Creb1	Microglia	1
+Creb1	B cells	1
+Creb1	Erythroid-like and erythroid precursor cells	1
+Creb1	Smooth muscle cells	1
+Creb1	Alveolar macrophages	1
+Creb1	Hematopoietic stem cells	1
+Creb1	Beta cells	1
+Creb1	Endothelial cells (aorta)	1
+Creb1	Interneurons	1
+Thsd4	Fibroblasts	12
+Thsd4	Smooth muscle cells	9
+Thsd4	Chondrocytes	4
+Thsd4	Pulmonary alveolar type II cells	1
+Thsd4	Meningeal cells	1
+Thsd4	Keratinocytes	1
+Msra	Neutrophils	108
+Msra	Enterocytes	65
+Msra	Retinal ganglion cells	33
+Msra	Proximal tubule cells	28
+Msra	Hepatocytes	14
+Msra	Goblet cells	8
+Msra	Paneth cells	6
+Msra	Neurons	6
+Msra	B cells	6
+Msra	Hematopoietic stem cells	3
+Msra	Urothelial cells	3
+Msra	Germ cells	3
+Msra	Cardiomyocytes	2
+Msra	Macrophages	2
+Msra	Fibroblasts	1
+Msra	Beta cells	1
+Msra	T memory cells	1
+Msra	Smooth muscle cells	1
+Msra	Epithelial cells	1
+Msra	Basal cells	1
+Aoah	Macrophages	26
+Aoah	Neutrophils	3
+Aoah	Proximal tubule cells	1
+Grm3	Oligodendrocytes	7
+Grm3	Astrocytes	6
+Grm3	Neurons	2
+Cftr	Enterocytes	26
+Cftr	Epithelial cells	4
+Cftr	Acinar cells	3
+Cftr	Paneth cells	2
+Cftr	Pulmonary alveolar type II cells	1
+Cckar	Clara cells	2
+Cckar	Trigeminal neurons	2
+Cckar	Acinar cells	1
+Tyk2	Dendritic cells	4
+Tyk2	Hepatocytes	3
+Tyk2	Enterocytes	1

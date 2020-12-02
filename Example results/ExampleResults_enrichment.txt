@@ -1,0 +1,198 @@
+GO:0046883	0.0071	regulation of hormone secretion	Cckar,Cftr,Dab2,Nos1,Creb1
+GO:0007165	0.0075	signal transduction	Tyk2,Grm3,Gcat,Grm2,Cckar,Dab2,Ifna1,Nos1,Ifna5,Ahr,Tiam2,Creb1
+GO:0007196	0.0075	adenylate cyclase-inhibiting G protein-coupled glutamate receptor signaling pathway	Grm3,Grm2
+GO:0046887	0.0075	positive regulation of hormone secretion	Cckar,Cftr,Dab2,Creb1
+GO:0097755	0.0075	positive regulation of blood vessel diameter	Cftr,Nos1,Ahr
+GO:1901698	0.0075	response to nitrogen compound	Cckar,Cftr,Ifna1,Nos1,Ifna5,Ahr,Creb1
+GO:0030154	0.0082	cell differentiation	Tyk2,Shbg,Cckar,Mreg,Cftr,Dab2,Ifna1,Nos1,Ifna5,Ahr,Creb1
+GO:0045906	0.0086	negative regulation of vasoconstriction	Nos1,Ahr
+GO:0002323	0.0088	natural killer cell activation involved in immune response	Ifna1,Ifna5
+GO:0003008	0.0088	system process	Grm3,Cckar,Cftr,Dab2,Nos1,Ahr,Creb1
+GO:0010646	0.0088	regulation of cell communication	Grm3,Grm2,Cckar,Cftr,Dab2,Ifna1,Nos1,Ifna5,Tiam2,Creb1
+GO:0014070	0.0088	response to organic cyclic compound	Cftr,Dab2,Ifna1,Nos1,Ifna5,Ahr
+GO:0023051	0.0088	regulation of signaling	Grm3,Grm2,Cckar,Cftr,Dab2,Ifna1,Nos1,Ifna5,Tiam2,Creb1
+GO:0030183	0.0088	B cell differentiation	Ifna1,Ifna5,Ahr
+GO:0033141	0.0088	positive regulation of peptidyl-serine phosphorylation of STAT protein	Ifna1,Ifna5
+GO:0045899	0.0088	positive regulation of RNA polymerase II transcriptional preinitiation complex assembly	Ahr,Creb1
+GO:0051716	0.0088	cellular response to stimulus	Tyk2,Grm3,Gcat,Grm2,Cckar,Cftr,Dab2,Ifna1,Nos1,Ifna5,Ahr,Tiam2,Creb1
+GO:0061478	0.0088	response to platelet aggregation inhibitor	Cftr,Ahr
+GO:0071310	0.0088	cellular response to organic substance	Cckar,Cftr,Dab2,Ifna1,Nos1,Ifna5,Ahr,Creb1
+GO:0071495	0.0088	cellular response to endogenous stimulus	Cckar,Cftr,Dab2,Nos1,Ahr,Creb1
+GO:1904322	0.0088	cellular response to forskolin	Cftr,Ahr
+GO:0033135	0.0099	regulation of peptidyl-serine phosphorylation	Ifna1,Nos1,Ifna5
+GO:1900273	0.0099	positive regulation of long-term synaptic potentiation	Nos1,Creb1
+GO:0050804	0.0114	modulation of chemical synaptic transmission	Grm3,Grm2,Nos1,Creb1
+GO:0007166	0.0138	cell surface receptor signaling pathway	Tyk2,Grm3,Grm2,Dab2,Ifna1,Ifna5,Creb1
+GO:0007188	0.0138	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	Grm3,Gcat,Grm2
+GO:0042100	0.0142	B cell proliferation	Ifna1,Ifna5
+GO:0042311	0.0142	vasodilation	Cftr,Nos1
+GO:0032502	0.0143	developmental process	Tyk2,Shbg,Cckar,Mreg,Cftr,Msra,Dab2,Ifna1,Nos1,Ifna5,Ahr,Creb1
+GO:0071417	0.015	cellular response to organonitrogen compound	Cftr,Nos1,Ahr,Creb1
+GO:0031279	0.0163	regulation of cyclase activity	Gcat,Nos1
+GO:0043330	0.0163	response to exogenous dsRNA	Ifna1,Ifna5
+GO:0051339	0.0163	regulation of lyase activity	Gcat,Nos1
+GO:0065009	0.0163	regulation of molecular function	Grm3,Gcat,Grm2,Cftr,Dab2,Ifna1,Nos1,Ifna5,Tiam2
+GO:0071320	0.0164	cellular response to cAMP	Cftr,Ahr
+GO:0010243	0.0169	response to organonitrogen compound	Cckar,Cftr,Nos1,Ahr,Creb1
+GO:0046903	0.0182	secretion	Grm2,Cckar,Cftr,Creb1
+GO:0090066	0.0189	regulation of anatomical structure size	Cftr,Nos1,Ahr,Creb1
+GO:0090276	0.0189	regulation of peptide hormone secretion	Cckar,Cftr,Nos1
+GO:0051930	0.0193	regulation of sensory perception of pain	Grm3,Nos1
+GO:0045776	0.0216	negative regulation of blood pressure	Nos1,Ahr
+GO:0044057	0.022	regulation of system process	Grm3,Dab2,Nos1,Ahr
+GO:0002286	0.0227	T cell activation involved in immune response	Ifna1,Ifna5
+GO:0046717	0.0246	acid secretion	Grm2,Cckar
+GO:0051050	0.0248	positive regulation of transport	Cckar,Cftr,Dab2,Nos1,Creb1
+GO:0007589	0.0255	body fluid secretion	Cckar,Creb1
+GO:0051966	0.0259	regulation of synaptic transmission, glutamatergic	Grm3,Grm2
+GO:0060548	0.0259	negative regulation of cell death	Cftr,Dab2,Nos1,Ahr,Creb1
+GO:0030097	0.0277	hemopoiesis	Dab2,Ifna1,Ifna5,Ahr
+GO:0042133	0.0333	neurotransmitter metabolic process	Gcat,Nos1
+GO:1901606	0.0345	alpha-amino acid catabolic process	Gcat,Nos1
+GO:0000902	0.0353	cell morphogenesis	Cckar,Dab2,Ahr,Creb1
+GO:0045944	0.037	positive regulation of transcription by RNA polymerase II	Gcat,Dab2,Nos1,Ahr,Creb1
+GO:0046889	0.037	positive regulation of lipid biosynthetic process	Dab2,Creb1
+GO:0050878	0.037	regulation of body fluid levels	Cckar,Cftr,Creb1
+GO:0042737	0.0405	drug catabolic process	Gcat,Nos1
+GO:0009408	0.0406	response to heat	Cckar,Nos1
+GO:0043266	0.041	regulation of potassium ion transport	Cckar,Nos1
+GO:0007267	0.0484	cell-cell signaling	Grm3,Cckar,Dab2,Nos1
+GO:0032989	0.0484	cellular component morphogenesis	Cckar,Dab2,Ahr,Creb1
+GO:0043005	0.0302	neuron projection	Grm3,Grm2,Cckar,Cftr,Nos1,Tiam2,Creb1
+GO:0030424	0.0313	axon	Grm3,Grm2,Cckar,Tiam2,Creb1
+GO:0120025	0.0313	plasma membrane bounded cell projection	Grm3,Gcat,Grm2,Cckar,Cftr,Nos1,Tiam2,Creb1
+GO:0001641	0.00099	group II metabotropic glutamate receptor activity	Grm3,Grm2
+GO:0016247	0.00099	channel regulator activity	Grm3,Grm2,Cftr,Nos1
+GO:0005132	0.0026	type I interferon receptor binding	Ifna1,Ifna5
+GO:0099106	0.0026	ion channel regulator activity	Grm3,Grm2,Cftr
+GO:0001223	0.0054	transcription coactivator binding	Ahr,Creb1
+GO:0098772	0.0077	molecular function regulator	Grm3,Grm2,Cftr,Ifna1,Nos1,Ifna5,Tiam2
+GO:0005246	0.0091	calcium channel regulator activity	Grm3,Grm2
+GO:0017046	0.0185	peptide hormone binding	Gcat,Cckar
+GO:0004930	0.0201	G protein-coupled receptor activity	Grm3,Gcat,Grm2,Cckar
+GO:0005126	0.0268	cytokine receptor binding	Tyk2,Ifna1,Ifna5
+GO:0038023	0.0268	signaling receptor activity	Grm3,Gcat,Grm2,Cckar,Ahr
+GO:0051087	0.0422	chaperone binding	Cftr,Ahr
+KW-0051	0.00019	Antiviral defense	Ifna1,Ifna5,Ifna7,Ifna6
+KW-0202	0.00085	Cytokine	Ifna1,Ifna5,Ifna7,Ifna6
+KW-0964	0.0107	Secreted	Shbg,Aoah,Ifna1,Thsd4,Ifna5,Ifna7,Ifna6
+KW-0449	0.0122	Lipoprotein	Cckar,Mreg,Cftr,Msra,Tiam2
+KW-1015	0.0133	Disulfide bond	Grm3,Shbg,Aoah,Grm2,Cckar,Ifna1,Ifna5,Ifna7,Ifna6
+KW-0732	0.0337	Signal	Grm3,Shbg,Aoah,Grm2,Ifna1,Thsd4,Ifna5,Ifna7,Ifna6
+KW-0564	0.0368	Palmitate	Cckar,Mreg,Cftr
+SM00076	4.54e-07	Interferon alpha, beta and delta.	Ifna1,Ifna5,Ifna7,Ifna6
+IPR000471	8.22e-07	Interferon alpha/beta/delta	Ifna1,Ifna5,Ifna7,Ifna6
+IPR009079	4.32e-05	Four-helical cytokine-like, core	Ifna1,Ifna5,Ifna7,Ifna6
+IPR000162	0.00097	GPCR, family 3, metabotropic glutamate receptor	Grm3,Grm2
+IPR017979	0.0106	GPCR, family 3, conserved site	Grm3,Grm2
+PF00143	9.08e-07	Interferon alpha/beta domain	Ifna1,Ifna5,Ifna7,Ifna6
+PMID:16504056	2.03e-05	(2006) Polymorphism discovery and association analyses of the interferon genes in type 1 diabetes.	Ifna1,Ifna5,Ifna7,Ifna6
+PMID:26830021	0.00015	(2016) Proteome-wide survey of the autoimmune target repertoire in autoimmune polyendocrine syndrome type 1.	Ifna1,Ifna5,Ifna7,Ifna6
+PMID:25378524	0.00054	(2015) Epigenetic upregulation of metabotropic glutamate receptor 2 in the spinal cord attenuates oestrogen-induced visceral hypersensitivity.	Grm3,Grm2,Creb1
+PMID:27385724	0.0011	(2016) EXPRESS: Histone hyperacetylation modulates spinal type II metabotropic glutamate receptor alleviating stress-induced visceral hypersensitivity in female rats.	Grm3,Grm2,Creb1
+PMID:23239965	0.0022	(2012) Structural, genetic, and functional signatures of disordered neuro-immunological development in autism spectrum disorder.	Ifna5,Ifna7,Ifna6
+PMID:8188265	0.0022	(1994) Gene mapping of NMDA receptors and metabotropic glutamate receptors in the rat (Rattus norvegicus).	Grm3,Shbg,Grm2
+PMID:16781449	0.0027	(2006) Role of epithelial nitric oxide in airway viral infection.	Tyk2,Cftr,Nos1
+PMID:28114282	0.0032	(2017) The miR-487b-3pGRM3TGFBeta signaling axis is an important regulator of colon cancer tumorigenesis.	Grm3,Grm2,Creb1
+PMID:23224365	0.0032	(2013) Stabilization of human interferon-Alfa1 mRNA by its antisense RNA.	Ifna5,Ifna7,Ifna6
+PMID:22162829	0.0032	(2011) Evolutionary genetic dissection of human interferons.	Tyk2,Ifna5,Ifna6
+PMID:29181591	0.0035	(2017) Post-zygotic genomic changes in glutamate and dopamine pathway genes may explain discordance of monozygotic twins for schizophrenia.	Grm3,Nos1,Creb1
+PMID:25159465	0.0035	(2014) Identification of novel gene signatures in patients with atopic dermatitis complicated by eczema herpeticum.	Tyk2,Ifna5,Ifna6
+PMID:19249984	0.0035	(2009) Emerging treatments for traumatic brain injury.	Tyk2,Nos1,Creb1
+PMID:31244471	0.0036	(2019) Comment on 'AIRE-deficient patients harbor unique high-affinity disease-ameliorating autoantibodies'.	Ifna5,Ifna7,Ifna6
+PMID:28392297	0.0036	(2017) Group II metabotropic glutamate receptor interactions with NHERF scaffold proteins: Implications for receptor localization in brain.	Grm3,Grm2,Cftr
+PMID:24369137	0.0036	(2014) Gene-environment interactions in male reproductive health: special reference to the aryl hydrocarbon receptor signaling pathway.	Shbg,Ahr,Creb1
+PMID:24109187	0.0037	(2013) Role of nucleus accumbens glutamatergic plasticity in drug addiction.	Grm3,Grm2,Creb1
+PMID:30201809	0.0039	(2018) Cutting Edge: Intracellular IFN-Beta and Distinct Type I IFN Expression Patterns in Circulating Systemic Lupus Erythematosus B Cells.	Ifna5,Ifna7,Ifna6
+PMID:27391266	0.0049	(2016) Whole Genome Pathway Analysis Identifies an Association of Cadmium Response Gene Loss with Copy Number Variation in Mutant p53 Bearing Uterine Endometrial Carcinomas.	Ifna1,Ifna5,Ifna7,Ifna6
+PMID:26265053	0.0052	(2015) Inducible nitric oxide synthase mediates DNA double strand breaks in Human T-Cell Leukemia Virus Type 1-induced leukemialymphoma.	Tyk2,Nos1,Creb1
+PMID:23969180	0.006	(2014) SAMP8 mice have altered hippocampal gene expression in long term potentiation, phosphatidylinositol signaling, and endocytosis pathways.	Grm3,Dab2,Creb1
+PMID:31311932	0.0065	(2019) The genomic landscape of Epstein-Barr virus-associated pulmonary lymphoepithelioma-like carcinoma.	Ifna5,Ifna7,Ifna6
+PMID:28273161	0.0065	(2017) The E3 ubiquitin ligase RNF185 facilitates the cGAS-mediated innate immune response.	Cftr,Ifna5,Ifna6
+PMID:27818290	0.0065	(2016) Developmental expression of mGlu2 and mGlu3 in the mouse brain.	Grm3,Grm2
+PMID:21360593	0.0065	(2011) Hippocampal mossy fiber long-term depression in Grm23 double knockout mice.	Grm3,Grm2
+PMID:20351096	0.0065	(2010) Alpha-AP-2 directs myosin VI-dependent endocytosis of cystic fibrosis transmembrane conductance regulator chloride channels in the intestine.	Cftr,Dab2
+PMID:20711221	0.0065	(2010) AMPK in cardiovascular health and disease.	Cftr,Nos1,Creb1
+PMID:19386277	0.0065	(2009) Association analysis of group II metabotropic glutamate receptor genes (GRM2 and GRM3) with mood disorders and fluvoxamine response in a Japanese population.	Grm3,Grm2
+PMID:10417323	0.0065	(1999) Analysis of DNase-I-hypersensitive sites at the 3' end of the cystic fibrosis transmembrane conductance regulator gene (CFTR).	Cftr,Creb1
+PMID:27630777	0.0073	(2016) Role of NMDA Receptor-Mediated Glutamatergic Signaling in Chronic and Acute Neuropathologies.	Grm3,Nos1,Creb1
+PMID:32208335	0.0077	(2020) The mechanism of Tyk2 deficiency-induced immunosuppression in mice involves robust IL-10 production in macrophages.	Tyk2,Creb1
+PMID:29662945	0.0077	(2018) Metabotropic Glutamate Receptor 23 (mGluR23) Activation Suppresses TRPV1 Sensitization in Mouse, But Not Human, Sensory Neurons.	Grm3,Grm2
+PMID:23855546	0.0077	(2013) Quercetin protects mouse brain against lead-induced neurotoxicity.	Nos1,Creb1
+PMID:24380037	0.0077	(2013) Letter from the editor: CFTR and male fertility-Impact beyond cystic fibrosis.	Cftr,Creb1
+PMID:24416641	0.0077	(2013) Interaction of JAK with steroid receptor function.	Tyk2,Shbg,Creb1
+PMID:21913191	0.0077	(2012) CFTR negatively regulates cyclooxygenase-2-PGE(2)  positive feedback loop in inflammation.	Cftr,Creb1
+PMID:22709980	0.0077	(2012) Regulation of male fertility by CFTR and implications in male infertility.	Cftr,Creb1
+PMID:22850437	0.0077	(2012) NAAG peptidase inhibitors block cognitive deficit induced by MK-801 and motor activation induced by d-amphetamine in animal models of schizophrenia.	Grm3,Grm2
+PMID:19945495	0.0077	(2010) Elevated level of metabotropic glutamate receptor 23 in the prefrontal cortex in major depression.	Grm3,Grm2
+PMID:17240000	0.0077	(2007) Differential activities of alphabeta IFN subtypes against influenza virus in vivo and enhancement of specific immune responses in DNA vaccinated mice expressing haemagglutinin and nucleoprotein.	Ifna5,Ifna6
+PMID:17935622	0.0077	(2007) Transcriptional networks in plasmacytoid dendritic cells stimulated with synthetic TLR 7 agonists.	Ifna5,Ifna7,Ifna6,Creb1
+PMID:15892884	0.0077	(2005) No evidence for association between polymorphisms in GRM3 and schizophrenia.	Grm3,Grm2
+PMID:32343840	0.0081	(2020) nNOS-CAPON blockers produce anxiolytic effects by promoting synaptogenesis in chronic stress-induced animal models of anxiety.	Nos1,Creb1
+PMID:31601225	0.0081	(2019) Bacterial microcompartments: catalysis-enhancing metabolic modules for next generation metabolic and biomedical engineering.	Grm3,Grm2
+PMID:28064475	0.0081	(2017) Administration of Goji (Lycium chinense Mill.) Extracts Improves Erectile Function in Old Aged Rat Model.	Shbg,Nos1
+PMID:28327095	0.0081	(2017) Interferon signaling in ascites-associated macrophages is linked to a favorable clinical outcome in a subgroup of ovarian carcinoma patients.	Tyk2,Ifna1,Ifna7
+PMID:26817950	0.0081	(2016) Overlapping signatures of chronic pain in the DNA methylation landscape of prefrontal cortex and peripheral T cells.	Grm3,Grm2,Creb1
+PMID:23349361	0.0081	(2013) Protein profiles in Tc1 mice implicate novel pathway perturbations in the Down syndrome brain.	Nos1,Tiam2,Creb1
+PMID:21368721	0.0081	(2011) Positive allosteric modulators of type 5 metabotropic glutamate receptors (mGluR5) and their therapeutic potential for the treatment of CNS disorders.	Grm2,Creb1
+PMID:18980692	0.0081	(2008) Isolation, characterization and comparison of Atlantic and Chinook salmon growth hormone 1 and 2.	Ifna1,Creb1
+PMID:12100732	0.0081	(2002) Type I interferon gene therapy protects against cytomegalovirus-induced myocarditis.	Ifna1,Ifna6
+PMID:30875796	0.0096	(2019) Heterologous Expression of Aedes aegypti Cation Chloride Cotransporter 2 (aeCCC2) in Xenopus laevis Oocytes Induces an Enigmatic Na+Li+ Conductance.	Gcat,Cftr
+PMID:27502475	0.0096	(2017) mGluR23 mechanisms in primate dorsolateral prefrontal cortex: evidence for both presynaptic and postsynaptic actions.	Grm3,Grm2
+PMID:24406016	0.0096	(2014) Acute exposure to ultraviolet-B radiation modulates sex steroid hormones and receptor expression in the skin and may contribute to the sex bias of melanoma in a fish model.	Shbg,Creb1
+PMID:25172478	0.0096	(2014) Gene expression in the addicted brain.	Grm3,Grm2,Creb1
+PMID:23700429	0.0096	(2013) Identification of altered metabolic pathways in plasma and CSF in mild cognitive impairment and Alzheimer's disease using metabolomics.	Cftr,Nos1
+PMID:18508077	0.0096	(2008) Recruitment of CREB1 and histone deacetylase 2 (HDAC2) to the mouse Ltbp-1 promoter regulates its constitutive expression in a dioxin receptor-dependent manner.	Ahr,Creb1
+PMID:16491099	0.0096	(2006) Cholecystokinin 1 receptor modulates the MEKK1-induced c-Jun trans-activation: structural requirements of the receptor.	Cckar,Creb1
+PMID:29487705	0.0104	(2018) Mutations in DNA repair genes are associated with increased neo-antigen load and activated T cell infiltration in lung adenocarcinoma.	Ifna5,Ifna7,Ifna6
+PMID:30838340	0.0111	(2019) CRTC2 as a novel prognostic biomarker for worse pathologic outcomes and biochemical recurrence after radical prostatectomy in patients with prostate cancer.	Shbg,Creb1
+PMID:29875830	0.0111	(2018) Gender differences in bronchiectasis: a real issue?	Shbg,Cftr
+PMID:28435008	0.0111	(2017) Cortical and amygdalar neuronal ensembles in alcohol seeking, drinking and withdrawal.	Grm2,Creb1
+PMID:28438500	0.0111	(2017) AP2 Alfa modulates cystic fibrosis transmembrane conductance regulator function in the human intestine.	Cftr,Dab2
+PMID:26457695	0.0111	(2015) Duchenne Muscular Dystrophy: From Diagnosis to Therapy.	Cftr,Nos1
+PMID:21448595	0.0111	(2011) mGluR7 genetics and alcohol: intersection yields clues for addiction.	Grm3,Grm2
+PMID:21458561	0.0111	(2011) Estrogen receptors stimulate brain region specific metabotropic glutamate receptors to rapidly initiate signal transduction pathways.	Grm2,Creb1
+PMID:21625623	0.0111	(2011) Defective CFTR-dependent CREB activation results in impaired spermatogenesis and azoospermia.	Cftr,Creb1
+PMID:19531380	0.0111	(2009) Impairment of memory consolidation by galanin correlates with in vivo inhibition of both LTP and CREB phosphorylation.	Gcat,Creb1
+PMID:27055615	0.0113	(2016) A Genetic Animal Model of Alcoholism for Screening Medications to Treat Addiction.	Grm3,Grm2,Creb1
+PMID:30641123	0.0122	(2019) Pharmacokinetics and pharmacodynamics of nitric oxide mimetic agents.	Nos1,Creb1
+PMID:32038640	0.0122	(2019) Host-Microbe-Pathogen Interactions: A Review of Vibrio cholerae Pathogenesis in Drosophila.	Cftr,Msra
+PMID:27445786	0.0122	(2016) Nitric Oxide Is Required for L-Type Ca(2+) Channel-Dependent Long-Term Potentiation in the Hippocampus.	Nos1,Creb1
+PMID:25346735	0.0122	(2014) Endothelial nitric oxide synthase mediates the cerebrovascular effects of erythropoietin in traumatic brain injury.	Tyk2,Nos1
+PMID:25379383	0.0122	(2014) Structural and functional characterization of salmon STAT1, STAT2 and IRF9 homologs sheds light on interferon signaling in teleosts.	Tyk2,Ifna1
+PMID:23750297	0.0122	(2013) c-Cbl reduces stability of rescued DeltaF508-CFTR in human airway epithelial cells: Implications for cystic fibrosis treatment.	Cftr,Dab2
+PMID:22540005	0.0122	(2012) Prenatal hypoxic-ischemic insult changes the distribution and number of NADPH-diaphorase cells in the cerebellum.	Nos1,Creb1
+PMID:23181163	0.0122	(2012) Tissue-specific control of CFTR endocytosis by Dab2:  Cargo recruitment as a therapeutic target.	Cftr,Dab2
+PMID:17446183	0.0122	(2007) Chronic gonadotropin-releasing hormone inhibits activin induction of the ovine follicle-stimulating hormone beta-subunit: involvement of 3',5'-cyclic adenosine monophosphate response element binding protein and nitric oxide synthase type I.	Nos1,Creb1
+PMID:17982880	0.0122	(2007) Behavioural and expressional phenotyping of nitric oxide synthase-I knockdown animals.	Nos1,Creb1
+PMID:30863282	0.0134	(2019) Herpes Simplex Virus Type 1 Infection of the Central Nervous System: Insights Into Proposed Interrelationships With Neurodegenerative Disorders.	Tyk2,Nos1,Creb1
+PMID:31150381	0.0134	(2019) CREB-B acts as a key mediator of NPFNO pathway involved in phase-related locomotor plasticity in locusts.	Nos1,Creb1
+PMID:29678764	0.0134	(2018) Relation of nNOS isoforms to mitochondrial density and PGC-1alpha expression in striated muscles of mice.	Nos1,Creb1
+PMID:29020418	0.0134	(2017) Striatal N-Acetylaspartate Synthetase ShatiNat8l Regulates Depression-Like Behaviors via mGluR3-Mediated Serotonergic Suppression in Mice.	Grm3,Grm2
+PMID:26374610	0.0134	(2016) Modulation of Polycystic Kidney Disease Severity by Phosphodiesterase 1 and 3 Subfamilies.	Cftr,Creb1
+PMID:26479127	0.0134	(2015) The multifaceted role of nitric oxide synthases in mitochondrial biogenesis and cell differentiation.	Nos1,Creb1
+PMID:23800120	0.0134	(2013) Pregnancy recognition signaling mechanisms in ruminants and pigs.	Tyk2,Ifna1,Ifna7
+PMID:24065968	0.0134	(2013) Bioinformatics analysis of the factors controlling type I IFN gene expression in autoimmune disease and virus-induced immunity.	Ifna5,Ifna7,Ifna6
+PMID:23226244	0.0134	(2012) cAMPprotein kinase A activates cystic fibrosis transmembrane conductance regulator for ATP release from rat skeletal muscle during low pH or contractions.	Cftr,Creb1
+PMID:21527738	0.0134	(2011) Exercise protects against myocardial ischemia-reperfusion injury via stimulation of Beta(3)-adrenergic receptors and increased nitric oxide signaling: role of nitrite and nitrosothiols.	Nos1,Creb1
+PMID:19099295	0.0134	(2009) Effects of galanin on cocaine-mediated conditioned place preference and ERK signaling in mice.	Gcat,Creb1
+PMID:29851790	0.0144	(2018) Screening key candidate genes and pathways involved in insulinoma by microarray analysis.	Cftr,Creb1
+PMID:28866052	0.0144	(2017) Sleep-inducing effect of substance P-cholera toxin A subunit in mice.	Nos1,Creb1
+PMID:25724724	0.0144	(2015) Beta-adrenergic effects on cardiac myofilaments and contraction in an integrated rabbit ventricular myocyte model.	Cftr,Nos1
+PMID:26283659	0.0144	(2015) Hydrogen sulphide and mild hypothermia activate the CREB signaling pathway and prevent ischemia-reperfusion injury.	Nos1,Creb1
+PMID:24518819	0.0144	(2014) Nitric oxide and hypoxia stimulate erythropoietin receptor via MAPK kinase in endothelial cells.	Tyk2,Nos1
+PMID:25215286	0.0144	(2014) Rhubarb tannins extract inhibits the expression of aquaporins 2 and 3 in magnesium sulphate-induced diarrhoea model.	Cftr,Creb1
+PMID:23976955	0.0144	(2013) An NO donor approach to neuroprotective and procognitive estrogen therapy overcomes loss of NO synthase function and potentially thrombotic risk.	Nos1,Creb1
+PMID:22197046	0.0144	(2012) Posttraumatic hypothermia increases doublecortin expressing neurons in the dentate gyrus after traumatic brain injury in the rat.	Nos1,Creb1
+PMID:25538744	0.0144	(2012) Could androgens maintain specific domains of mental health in aging men by preserving hippocampal neurogenesis?	Shbg,Creb1
+PMID:21968757	0.0144	(2011) Gene transfer of neuronal nitric oxide synthase to the paraventricular nucleus reduces the enhanced glutamatergic tone in rats with chronic heart failure.	Nos1,Creb1
+MMU-420499	0.013	Class C/3 (Metabotropic glutamate/pheromone receptors)	Grm3,Grm2
+MMU-168256	0.0301	Immune System	Tyk2,Ifna1,Nos1,Ifna7,Ifna6,Creb1
+MMU-162582	0.0479	Signal Transduction	Tyk2,Grm3,Grm2,Cckar,Cftr,Tiam2,Creb1
+MMU-388396	0.0479	GPCR downstream signalling	Grm3,Grm2,Cckar,Tiam2,Creb1
+MMU-500792	0.0479	GPCR ligand binding	Grm3,Grm2,Cckar
+CL:18923	4e-05	Jak-STAT signaling pathway	Tyk2,Ifna1,Ifna5,Ifna7
+CL:19019	4e-05	Regulation of IFNA signaling, and STAT2, SH2 domain	Tyk2,Ifna1,Ifna5
+CL:22399	0.00046	mixed, incl. group II metabotropic glutamate receptor activity, and Histamine H3 receptor	Grm3,Grm2
+CL:19022	0.00072	type I interferon signaling pathway, and type I interferon receptor binding	Tyk2,Ifna1
+CL:9842	0.0144	alpha-amino acid biosynthetic process, and one-carbon metabolic process	Gcat,Nos1

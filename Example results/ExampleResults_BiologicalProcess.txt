@@ -1,0 +1,46 @@
+GO:0046883	0.0071
+GO:0046883	0.0071	regulation of hormone secretion	Cckar,Cftr,Dab2,Nos1,Creb1
+GO:0007165	0.0075
+GO:0007165	0.0075	signal transduction	Tyk2,Grm3,Gcat,Grm2,Cckar,Dab2,Ifna1,Nos1,Ifna5,Ahr,Tiam2,Creb1
+GO:0007196	0.0075
+GO:0007196	0.0075	adenylate cyclase-inhibiting G protein-coupled glutamate receptor signaling pathway	Grm3,Grm2
+GO:0046887	0.0075
+GO:0046887	0.0075	positive regulation of hormone secretion	Cckar,Cftr,Dab2,Creb1
+GO:0097755	0.0075
+GO:0097755	0.0075	positive regulation of blood vessel diameter	Cftr,Nos1,Ahr
+GO:1901698	0.0075
+GO:1901698	0.0075	response to nitrogen compound	Cckar,Cftr,Ifna1,Nos1,Ifna5,Ahr,Creb1
+GO:0030154	0.0082
+GO:0030154	0.0082	cell differentiation	Tyk2,Shbg,Cckar,Mreg,Cftr,Dab2,Ifna1,Nos1,Ifna5,Ahr,Creb1
+GO:0045906	0.0086
+GO:0045906	0.0086	negative regulation of vasoconstriction	Nos1,Ahr
+GO:0002323	0.0088
+GO:0002323	0.0088	natural killer cell activation involved in immune response	Ifna1,Ifna5
+GO:0003008	0.0088
+GO:0003008	0.0088	system process	Grm3,Cckar,Cftr,Dab2,Nos1,Ahr,Creb1
+GO:0010646	0.0088
+GO:0010646	0.0088	regulation of cell communication	Grm3,Grm2,Cckar,Cftr,Dab2,Ifna1,Nos1,Ifna5,Tiam2,Creb1
+GO:0014070	0.0088
+GO:0014070	0.0088	response to organic cyclic compound	Cftr,Dab2,Ifna1,Nos1,Ifna5,Ahr
+GO:0023051	0.0088
+GO:0023051	0.0088	regulation of signaling	Grm3,Grm2,Cckar,Cftr,Dab2,Ifna1,Nos1,Ifna5,Tiam2,Creb1
+GO:0030183	0.0088
+GO:0030183	0.0088	B cell differentiation	Ifna1,Ifna5,Ahr
+GO:0033141	0.0088
+GO:0033141	0.0088	positive regulation of peptidyl-serine phosphorylation of STAT protein	Ifna1,Ifna5
+GO:0045899	0.0088
+GO:0045899	0.0088	positive regulation of RNA polymerase II transcriptional preinitiation complex assembly	Ahr,Creb1
+GO:0051716	0.0088
+GO:0051716	0.0088	cellular response to stimulus	Tyk2,Grm3,Gcat,Grm2,Cckar,Cftr,Dab2,Ifna1,Nos1,Ifna5,Ahr,Tiam2,Creb1
+GO:0061478	0.0088
+GO:0061478	0.0088	response to platelet aggregation inhibitor	Cftr,Ahr
+GO:0071310	0.0088
+GO:0071310	0.0088	cellular response to organic substance	Cckar,Cftr,Dab2,Ifna1,Nos1,Ifna5,Ahr,Creb1
+GO:0071495	0.0088
+GO:0071495	0.0088	cellular response to endogenous stimulus	Cckar,Cftr,Dab2,Nos1,Ahr,Creb1
+GO:1904322	0.0088
+GO:1904322	0.0088	cellular response to forskolin	Cftr,Ahr
+GO:0033135	0.0099
+GO:0033135	0.0099	regulation of peptidyl-serine phosphorylation	Ifna1,Nos1,Ifna5
+GO:1900273	0.0099
+GO:1900273	0.0099	positive regulation of long-term synaptic potentiation	Nos1,Creb1

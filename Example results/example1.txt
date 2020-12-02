@@ -1,7 +1,0 @@
-Sim1	50
-Oca2	766
-Crkl	100
-Galnt3	600
-Rabep1	1
-Pstk	30
-Mt-Cyb	83

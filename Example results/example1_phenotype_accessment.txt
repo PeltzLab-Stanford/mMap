@@ -1,6 +1,0 @@
-Sim1	increased brown adipose tissue amount	11448938
-Oca2	decreased eye pigmentation
-Crkl	otic hypertelorism	11242111
-Galnt3	increased bone mineral density	19213845
-Galnt3	increased bone mineral density	22912827
-

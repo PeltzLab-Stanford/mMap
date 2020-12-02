@@ -1,0 +1,122 @@
+Gene	PFF	MAA	D-PFF	Cons
+Aoah	Domain	65	Saposin B-type	-0.6936
+Aoah	Region	65	Important for enzyme activity%2C localization to cytoplasmic vesicles%2C and protein stability	-0.6936
+Aoah	Disulfide bond	65	Ontology_term=ECO:0000255	-0.6936
+Aoah	Domain	97	Saposin B-type	-0.3946
+Aoah	Disulfide bond	97	Ontology_term=ECO:0000255	-0.3946
+Aoah	Domain	115	Saposin B-type	1.7654
+Mreg	Helix	122	Ontology_term=ECO:0000244	-0.4099
+Grm2	Disulfide bond	494	Ontology_term=ECO:0000250	5.6566
+Ifna7	Signal peptide	12	.	1.8041
+Ifna7	Signal peptide	14	.	0.9694
+Ifna7	Signal peptide	21	.	0.9656
+Ifna7	Disulfide bond	24	Ontology_term=ECO:0000250	-0.5524
+Ifna7	Disulfide bond	60	Ontology_term=ECO:0000250	1.1376
+Ifna7	Disulfide bond	64	Ontology_term=ECO:0000250	1.1858
+Ifna7	Glycosylation	101	N-linked (GlcNAc...) asparagine	1.7376
+Ifna7	Disulfide bond	101	Ontology_term=ECO:0000250	1.7376
+Ifna7	Disulfide bond	102	Ontology_term=ECO:0000250	1.4689
+Ifna7	Disulfide bond	103	Ontology_term=ECO:0000250	0.6701
+Ifna7	Disulfide bond	108	Ontology_term=ECO:0000250	1.5389
+Ifna7	Disulfide bond	126	Ontology_term=ECO:0000250	-0.7641
+Ifna7	Disulfide bond	149	Ontology_term=ECO:0000250	-0.8596
+Ifna6	Signal peptide	12	Ontology_term=ECO:0000250	0.7224
+Ifna6	Signal peptide	18	Ontology_term=ECO:0000250	0.8517
+Ifna6	Disulfide bond	36	Ontology_term=ECO:0000250	-0.8912
+Ifna6	Disulfide bond	37	Ontology_term=ECO:0000250	0.6315
+Ifna6	Disulfide bond	42	Ontology_term=ECO:0000250	0.7224
+Ifna6	Disulfide bond	63	Ontology_term=ECO:0000250	-0.9471
+Ifna6	Disulfide bond	64	Ontology_term=ECO:0000250	-0.7915
+Ifna6	Disulfide bond	67	Ontology_term=ECO:0000250	1.2171
+Ifna6	Glycosylation	101	N-linked (GlcNAc...) asparagine	0.6483
+Ifna6	Disulfide bond	101	Ontology_term=ECO:0000250	0.6483
+Ifna6	Disulfide bond	115	Ontology_term=ECO:0000250	1.1760
+Ifna6	Disulfide bond	126	Ontology_term=ECO:0000250	0.8427
+Ifna6	Disulfide bond	132	Ontology_term=ECO:0000250	1.8610
+Ifna6	Disulfide bond	153	Ontology_term=ECO:0000250	1.0446
+Ifna5	Signal peptide	4	Ontology_term=ECO:0000250	1.3256
+Ifna5	Disulfide bond	67	Ontology_term=ECO:0000250	1.3663
+Ifna5	Disulfide bond	87	Ontology_term=ECO:0000250	1.4389
+Ifna5	Helix	87	Ontology_term=ECO:0000244	1.4389
+Ifna5	Disulfide bond	145	Ontology_term=ECO:0000250	-0.7332
+Ifna5	Helix	145	Ontology_term=ECO:0000244	-0.7332
+Ifna1	Disulfide bond	36	Ontology_term=ECO:0000250	-0.8942
+Ifna1	Disulfide bond	37	Ontology_term=ECO:0000250	2.0816
+Ifna1	Disulfide bond	72	Ontology_term=ECO:0000250	0.7754
+Ifna1	Disulfide bond	73	Ontology_term=ECO:0000250	-0.7904
+Ifna1	Disulfide bond	102	Ontology_term=ECO:0000250	2.5295
+Ifna1	Disulfide bond	108	Ontology_term=ECO:0000250	-0.5969
+Ifna1	Disulfide bond	126	Ontology_term=ECO:0000250	0.6822
+Ifna1	Disulfide bond	132	Ontology_term=ECO:0000250	2.1292
+Ifna1	Disulfide bond	133	Ontology_term=ECO:0000250	-0.6792
+Ifna1	Disulfide bond	139	Ontology_term=ECO:0000250	0.6368
+Dab2	Domain	192	PID	-0.3158
+Dab2	Region	363	Required for localization to clathrin-coated pits	-0.3515
+Dab2	Region	384	Required for localization to clathrin-coated pits	1.9193
+Dab2	Region	253	Required for localization to clathrin-coated pits	-0.5667
+Dab2	Region	274	Required for localization to clathrin-coated pits	-0.3108
+Dab2	Region	314	Required for localization to clathrin-coated pits	-0.3204
+Dab2	Region	335	Required for localization to clathrin-coated pits	-0.3515
+Dab2	Region	735	Required for interaction with MYO6	-0.4292
+Dab2	Region	756	Required for interaction with MYO6	-0.6190
+Dab2	Region	737	Required for interaction with MYO6	-0.3515
+Dab2	Region	758	Required for interaction with MYO6	4.4155
+Cftr	Domain	423	ABC transporter 1	1.2273
+Cftr	Helix	423	Ontology_term=ECO:0000244	1.2273
+Cftr	Domain	530	ABC transporter 1	-0.6460
+Cftr	Helix	530	Ontology_term=ECO:0000244	-0.6460
+Cftr	Domain	969	ABC transmembrane type-1 2	-0.6736
+Cftr	Transmembrane	999	Helical%3B Name%3D9	-0.6494
+Cftr	Domain	999	ABC transmembrane type-1 2	-0.6494
+Cftr	Transmembrane	1145	Helical%3B Name%3D12	-0.7256
+Cftr	Domain	1145	ABC transmembrane type-1 2	-0.7256
+Grm3	Disulfide bond	501	Ontology_term=ECO:0000250	-0.2084
+Tyk2	Domain	493	SH2%3B atypical	-0.0006
+Tyk2	Domain	516	SH2%3B atypical	-0.3900
+Tyk2	Domain	364	FERM	2.1152
+Tyk2	Domain	387	FERM	-0.3900
+Tyk2	Domain	359	FERM	-0.4837
+Tyk2	Domain	382	FERM	-0.5844
+Tyk2	Domain	242	FERM	-0.5344
+Tyk2	Domain	265	FERM	-0.6301
+Tyk2	Domain	238	FERM	1.7233
+Tyk2	Domain	261	FERM	-0.4837
+Tyk2	Domain	177	FERM	-0.4898
+Cckar	Transmembrane	365	Helical%3B Name%3D7	-0.2329
+Ahr	Natural variant	806	In allele AHRB1. Missing	-0.4368
+Ahr	Natural variant	758	In allele AHRB1 and allele AHRD. T->A	-0.4322
+Ahr	Natural variant	589	In allele AHRD. M->I	1.4083
+Ahr	Natural variant	589	In allele AHRB1%3B no increase in specific ligand binding. M->L	1.4083
+Ahr	Natural variant	533	In allele AHRB1%3B no increase in specific ligand binding. N->S	0.9670
+Ahr	Natural variant	471	In allele AHRB1%3B no increase in specific ligand binding. P->L	-0.8836
+Ahr	Domain	375	PAC	-0.6525
+Ahr	Natural variant	375	In allele AHRD%3B reduced specific ligand binding. A->V	-0.6525
+Ahr	Domain	348	PAC	-0.7481
+Ahr	Natural variant	348	In allele AHRB1 and allele AHRD%3B no reduction in specific ligand binding. F->L	-0.7481
+Ahr	Domain	324	PAS 2	-0.7349
+Ahr	Natural variant	324	In allele AHRB1%3B no increase in specific ligand binding. M->I	-0.7349
+Shbg	Signal peptide	29	Ontology_term=ECO:0000250	1.0301
+Thsd4	Domain	947	TSP type-1 6	-0.4299
+Thsd4	Domain	840	TSP type-1 4	2.1840
+Thsd4	Domain	770	TSP type-1 3	2.4627
+Thsd4	Domain	201	TSP type-1 1	-0.4299
+Thsd4	Domain	147	TSP type-1 1	2.4289
+Thsd4	Domain	130	TSP type-1 1	-0.4088
+Thsd4	Signal peptide	25	Ontology_term=ECO:0000255	-0.3094
+Thsd4	Domain	266	TSP type-1 1	-0.4299
+Thsd4	Domain	148	TSP type-1 1	-0.3187
+Thsd4	Signal peptide	13	Ontology_term=ECO:0000255	3.2301
+Nos1	Region	162	Interaction with NOSIP	-0.3282
+Nos1	Region	165	Interaction with NOSIP	6.0947
+Nos1	Region	165	PIN (nNOS-inhibiting protein) binding	6.0947
+Nos1	Region	240	PIN (nNOS-inhibiting protein) binding	-0.2817
+Tiam2	Domain	557	PH 1	1.9086
+Tiam2	Domain	844	RBD	-0.4925
+Tiam2	Domain	856	RBD	1.6690
+Tiam2	Domain	860	RBD	1.9877
+Galr3	Transmembrane	239	Helical%3B Name%3D6	3.0278
+Msra	Helix	103	Ontology_term=ECO:0000244	-0.3133
+Msra	Turn	125	Ontology_term=ECO:0000244	-0.4628
+Msra	Helix	167	Ontology_term=ECO:0000244	-0.4723
+Creb1	Domain	310	bZIP	-0.1181
+Creb1	Helix	310	Ontology_term=ECO:0000244	-0.1181

@@ -1,0 +1,35 @@
+mmu05167	1.75e-06	Kaposi's sarcoma-associated herpesvirus infection	Tyk2,Ifna1,Ifna5,Ifna7,Ifna6,Creb1
+mmu04217	4.62e-06	Necroptosis	Tyk2,Ifna1,Ifna5,Ifna7,Ifna6
+mmu04621	4.62e-06	NOD-like receptor signaling pathway	Tyk2,Ifna1,Ifna5,Ifna7,Ifna6
+mmu04622	4.62e-06	RIG-I-like receptor signaling pathway	Ifna1,Ifna5,Ifna7,Ifna6
+mmu04623	4.62e-06	Cytosolic DNA-sensing pathway	Ifna1,Ifna5,Ifna7,Ifna6
+mmu04630	4.62e-06	Jak-STAT signaling pathway	Tyk2,Ifna1,Ifna5,Ifna7,Ifna6
+mmu05152	4.62e-06	Tuberculosis	Ifna1,Ifna5,Ifna7,Ifna6,Creb1
+mmu05160	4.62e-06	Hepatitis C	Tyk2,Ifna1,Ifna5,Ifna7,Ifna6
+mmu05161	4.62e-06	Hepatitis B	Ifna1,Ifna5,Ifna7,Ifna6,Creb1
+mmu05162	4.62e-06	Measles	Tyk2,Ifna1,Ifna5,Ifna7,Ifna6
+mmu05164	4.62e-06	Influenza A	Tyk2,Ifna1,Ifna5,Ifna7,Ifna6
+mmu05165	4.62e-06	Human papillomavirus infection	Tyk2,Ifna1,Ifna5,Ifna7,Ifna6,Creb1
+mmu05320	4.62e-06	Autoimmune thyroid disease	Ifna1,Ifna5,Ifna7,Ifna6
+mmu05168	5.12e-06	Herpes simplex infection	Tyk2,Ifna1,Ifna5,Ifna7,Ifna6
+mmu04620	9.84e-06	Toll-like receptor signaling pathway	Ifna1,Ifna5,Ifna7,Ifna6
+mmu04650	1.49e-05	Natural killer cell mediated cytotoxicity	Ifna1,Ifna5,Ifna7,Ifna6
+mmu04151	5.69e-05	PI3K-Akt signaling pathway	Ifna1,Ifna5,Ifna7,Ifna6,Creb1
+mmu05030	5.69e-05	Cocaine addiction	Grm3,Grm2,Creb1
+mmu04060	0.00029	Cytokine-cytokine receptor interaction	Ifna1,Ifna5,Ifna7,Ifna6
+mmu05200	0.0043	Pathways in cancer	Ifna1,Ifna5,Ifna7,Ifna6
+mmu04080	0.0075	Neuroactive ligand-receptor interaction	Grm3,Grm2,Cckar
+mmu04911	0.0095	Insulin secretion	Cckar,Creb1
+mmu04713	0.0113	Circadian entrainment	Nos1,Creb1
+mmu04659	0.0119	Th17 cell differentiation	Tyk2,Ahr
+mmu04972	0.0119	Pancreatic secretion	Cckar,Cftr
+mmu04724	0.0139	Glutamatergic synapse	Grm3,Grm2
+mmu04152	0.0155	AMPK signaling pathway	Cftr,Creb1
+mmu04380	0.0155	Osteoclast differentiation	Tyk2,Creb1
+mmu04926	0.0163	Relaxin signaling pathway	Nos1,Creb1
+mmu04072	0.0194	Phospholipase D signaling pathway	Grm3,Grm2
+mmu04934	0.0215	Cushing's syndrome	Ahr,Creb1
+mmu04020	0.0273	Calcium signaling pathway	Cckar,Nos1
+mmu04024	0.0305	cAMP signaling pathway	Cftr,Creb1
+MMU-912694	5.1e-07	Regulation of IFNA signaling	Tyk2,Ifna1,Ifna7,Ifna6
+MMU-1280215	0.00036	Cytokine Signaling in Immune system	Tyk2,Ifna1,Ifna7,Ifna6,Creb1

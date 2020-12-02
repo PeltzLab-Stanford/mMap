@@ -1,0 +1,2136 @@
+Cftr	decreased neutrophil cell number	15246977
+Cftr	impaired fertilization	18325992
+Cftr	abnormal intestine morphology	7685652
+Cftr	abnormal intestine morphology	1380723
+Cftr	abnormal intestine morphology	7505691
+Cftr	abnormal intestine morphology	7560099
+Cftr	abnormal crypts of Lieberkuhn morphology	7685652
+Cftr	abnormal crypts of Lieberkuhn morphology	1380723
+Cftr	abnormal crypts of Lieberkuhn morphology	7482032
+Cftr	abnormal crypts of Lieberkuhn morphology	8589719
+Cftr	crypts of Lieberkuhn abscesses	7505691
+Cftr	abnormal colon morphology	7685652
+Cftr	abnormal colon morphology	1380723
+Cftr	abnormal colon morphology	1382232
+Cftr	abnormal colon morphology	7505691
+Cftr	abnormal small intestine morphology	7685652
+Cftr	abnormal intestinal mucosa morphology	8589719
+Cftr	abnormal intestinal mucosa morphology	8605891
+Cftr	intestinal ulcer	7505691
+Cftr	abnormal hepatocyte morphology	8605891
+Cftr	abnormal salivary gland morphology	8605891
+Cftr	spleen hyperplasia	1380723
+Cftr	small ovary	18325992
+Cftr	abnormal uterine cervix morphology	18325992
+Cftr	abnormal lung morphology	7540910
+Cftr	atelectasis	1382232
+Cftr	decreased body weight	7685652
+Cftr	decreased body weight	18325992
+Cftr	decreased body weight	7560099
+Cftr	decreased body weight	8605891
+Cftr	decreased body weight	7556083
+Cftr	weight loss	7505691
+Cftr	weight loss	8589719
+Cftr	decreased body size	1380723
+Cftr	decreased body size	7560099
+Cftr	decreased body size	7482032
+Cftr	decreased body size	8589719
+Cftr	decreased body size	8605891
+Cftr	distended abdomen	1380723
+Cftr	distended abdomen	7505691
+Cftr	abnormal lacrimal gland morphology	7685652
+Cftr	abnormal gait	1380723
+Cftr	aphagia	7505691
+Cftr	abnormal digestive system physiology	7560099
+Cftr	abnormal digestive system physiology	7482032
+Cftr	abnormal digestive system physiology	11823443
+Cftr	postnatal growth retardation	15246977
+Cftr	postnatal growth retardation	7505691
+Cftr	postnatal growth retardation	8589719
+Cftr	postnatal growth retardation	15246977|18325992
+Cftr	postnatal growth retardation	7556083
+Cftr	abnormal ion homeostasis	7560099
+Cftr	abnormal fluid regulation	7560099
+Cftr	abnormal thymus involution	1380723
+Cftr	lung inflammation	15246977|10570187
+Cftr	lung inflammation	15246977
+Cftr	lung inflammation	7540910
+Cftr	reduced female fertility	18325992
+Cftr	female infertility	1380723
+Cftr	female infertility	7482032
+Cftr	decreased litter size	18325992
+Cftr	delayed sexual maturation	18325992
+Cftr	abnormal pancreas morphology	1380723
+Cftr	abnormal pancreas morphology	7482032
+Cftr	premature death	1355249|7685652
+Cftr	premature death	1380723
+Cftr	premature death	7545494
+Cftr	premature death	7482032
+Cftr	abnormal respiratory system physiology	11823443
+Cftr	abnormal gland morphology	1380723
+Cftr	abnormal gland morphology	7505691
+Cftr	abnormal nasal mucosa morphology	1380723
+Cftr	abnormal paranasal sinus morphology	1380723
+Cftr	abnormal trachea morphology	1380723
+Cftr	increased susceptibility to infection	7685652
+Cftr	increased susceptibility to bacterial infection	7540910
+Cftr	small uterus	18325992
+Cftr	decreased corpora lutea number	18325992
+Cftr	abnormal pancreas physiology	7560099
+Cftr	abnormal vas deferens morphology	1382232
+Cftr	abnormal bile duct morphology	8605891
+Cftr	gallbladder inflammation	8605891
+Cftr	intestinal obstruction	1355249|7685652
+Cftr	intestinal obstruction	15246977
+Cftr	intestinal obstruction	1380723
+Cftr	intestinal obstruction	7505691
+Cftr	intestinal obstruction	7545494
+Cftr	intestinal obstruction	7560099
+Cftr	intestinal obstruction	7482032
+Cftr	intestinal obstruction	8589719
+Cftr	intestinal obstruction	8605891
+Cftr	peritoneal inflammation	7685652
+Cftr	peritoneal inflammation	1380723
+Cftr	peritoneal inflammation	7545494
+Cftr	peritoneal inflammation	7560099
+Cftr	peritoneal inflammation	8605891
+Cftr	acute pancreas inflammation	7505691
+Cftr	decreased ovulation rate	18325992
+Cftr	abnormal intestinal goblet cell morphology	7505691
+Cftr	abnormal intestinal goblet cell morphology	11823443
+Cftr	abnormal intestinal goblet cell morphology	7556083
+Cftr	abnormal intestinal goblet cell morphology	22711878
+Cftr	abnormal submandibular gland morphology	1380723
+Cftr	abnormal jejunum morphology	7560099
+Cftr	small pancreas	1380723
+Cftr	abnormal sperm physiology	18325992
+Cftr	abnormal phospholipid level	10570187
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	22711878
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7556083
+Cftr	decreased ovary weight	18325992
+Cftr	decreased uterus weight	18325992
+Cftr	abnormal gallbladder morphology	1380723
+Cftr	abnormal gallbladder physiology	7556083
+Cftr	cachexia	7505691
+Cftr	abnormal alveolar macrophage morphology	15246977
+Cftr	prolonged estrous cycle	18325992
+Cftr	absent estrous cycle	18325992
+Cftr	thin uterus	18325992
+Cftr	dilated pancreatic duct	7685652
+Cftr	pancreatic acinar cell atrophy	7505691
+Cftr	pancreatic acinar cell zymogen granule accumulation	10570187
+Cftr	enlarged gallbladder	7505691
+Cftr	enlarged gallbladder	8605891
+Cftr	dilated gallbladder	1380723
+Cftr	small cecum	1355249
+Cftr	coiled cecum	1380723
+Cftr	ileum hypertrophy	10570187
+Cftr	increased susceptibility to bacterial infection induced morbidity/mortality	15246977
+Cftr	abnormal intestine physiology	7545494
+Cftr	abnormal small intestinal crypt cell physiology	8589719
+Cftr	abnormal small intestinal crypt cell physiology	22711878
+Cftr	increased respiratory mucosa goblet cell number	1380723
+Cftr	increased respiratory mucosa goblet cell number	7540910
+Cftr	postnatal lethality, incomplete penetrance	1355249|7685652
+Cftr	postnatal lethality, incomplete penetrance	8605891
+Cftr	postnatal lethality, incomplete penetrance	1380723
+Cftr	postnatal lethality, incomplete penetrance	7949729
+Cftr	postnatal lethality, incomplete penetrance	7505691
+Cftr	postnatal lethality, incomplete penetrance	7545494
+Cftr	postnatal lethality, incomplete penetrance	7560099
+Cftr	postnatal lethality, incomplete penetrance	8589719
+Cftr	abnormal Brunner's gland morphology	1380723
+Cftr	dilated Brunner's glands	7560099
+Cftr	lacrimal gland atrophy	7505691
+Cftr	abnormal trachea gland morphology	1380723
+Cftr	abnormal small intestine goblet cell morphology	8589719
+Cftr	abnormal colon goblet cell morphology	8589719
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7685652
+Cftr	decreased respiratory epithelial chloride transmembrane transport	15246977
+Cftr	decreased respiratory epithelial chloride transmembrane transport	1382232
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7505691
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7545494
+Cftr	decreased respiratory epithelial chloride transmembrane transport	8605891
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7556083
+Cftr	abnormal submucosal gland morphology	8605891
+Cftr	meconium ileus	7685652|1355249
+Cftr	meconium ileus	7949729
+Cftr	meconium ileus	7545494
+Cftr	meconium ileus	8589719
+Cftr	decreased small intestinal villus number	8605891
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	7685652
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	15246977
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	8605891
+Cftr	increased respiratory epithelial sodium ion transmembrane transport	8589719
+Cftr	decreased intestinal epithelial sodium ion transmembrane transport	8605891
+Cftr	decreased intestinal epithelial chloride transmembrane transport	1382232
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7505691
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7556083
+Cftr	dilated crypts of Lieberkuhn	7685652
+Cftr	dilated crypts of Lieberkuhn	7505691
+Cftr	dilated crypts of Lieberkuhn	8605891
+Cftr	intestinal mucus accumulation	7685652
+Cftr	intestinal mucus accumulation	7505691
+Cftr	pancreatic acinus dilation	10570187
+Cftr	bile duct epithelium hyperplasia	8605891
+Cftr	decreased neutrophil cell number	15246977
+Cftr	impaired fertilization	18325992
+Cftr	abnormal intestine morphology	7685652
+Cftr	abnormal intestine morphology	1380723
+Cftr	abnormal intestine morphology	7505691
+Cftr	abnormal intestine morphology	7560099
+Cftr	abnormal crypts of Lieberkuhn morphology	7685652
+Cftr	abnormal crypts of Lieberkuhn morphology	1380723
+Cftr	abnormal crypts of Lieberkuhn morphology	7482032
+Cftr	abnormal crypts of Lieberkuhn morphology	8589719
+Cftr	crypts of Lieberkuhn abscesses	7505691
+Cftr	abnormal colon morphology	7685652
+Cftr	abnormal colon morphology	1380723
+Cftr	abnormal colon morphology	1382232
+Cftr	abnormal colon morphology	7505691
+Cftr	abnormal small intestine morphology	7685652
+Cftr	abnormal intestinal mucosa morphology	8589719
+Cftr	abnormal intestinal mucosa morphology	8605891
+Cftr	intestinal ulcer	7505691
+Cftr	abnormal hepatocyte morphology	8605891
+Cftr	abnormal salivary gland morphology	8605891
+Cftr	spleen hyperplasia	1380723
+Cftr	small ovary	18325992
+Cftr	abnormal uterine cervix morphology	18325992
+Cftr	abnormal lung morphology	7540910
+Cftr	atelectasis	1382232
+Cftr	decreased body weight	7685652
+Cftr	decreased body weight	18325992
+Cftr	decreased body weight	7560099
+Cftr	decreased body weight	8605891
+Cftr	decreased body weight	7556083
+Cftr	weight loss	7505691
+Cftr	weight loss	8589719
+Cftr	decreased body size	1380723
+Cftr	decreased body size	7560099
+Cftr	decreased body size	7482032
+Cftr	decreased body size	8589719
+Cftr	decreased body size	8605891
+Cftr	distended abdomen	1380723
+Cftr	distended abdomen	7505691
+Cftr	abnormal lacrimal gland morphology	7685652
+Cftr	abnormal gait	1380723
+Cftr	aphagia	7505691
+Cftr	abnormal digestive system physiology	7560099
+Cftr	abnormal digestive system physiology	7482032
+Cftr	abnormal digestive system physiology	11823443
+Cftr	postnatal growth retardation	15246977
+Cftr	postnatal growth retardation	7505691
+Cftr	postnatal growth retardation	8589719
+Cftr	postnatal growth retardation	15246977|18325992
+Cftr	postnatal growth retardation	7556083
+Cftr	abnormal ion homeostasis	7560099
+Cftr	abnormal fluid regulation	7560099
+Cftr	abnormal thymus involution	1380723
+Cftr	lung inflammation	15246977|10570187
+Cftr	lung inflammation	15246977
+Cftr	lung inflammation	7540910
+Cftr	reduced female fertility	18325992
+Cftr	female infertility	1380723
+Cftr	female infertility	7482032
+Cftr	decreased litter size	18325992
+Cftr	delayed sexual maturation	18325992
+Cftr	abnormal pancreas morphology	1380723
+Cftr	abnormal pancreas morphology	7482032
+Cftr	premature death	1355249|7685652
+Cftr	premature death	1380723
+Cftr	premature death	7545494
+Cftr	premature death	7482032
+Cftr	abnormal respiratory system physiology	11823443
+Cftr	abnormal gland morphology	1380723
+Cftr	abnormal gland morphology	7505691
+Cftr	abnormal nasal mucosa morphology	1380723
+Cftr	abnormal paranasal sinus morphology	1380723
+Cftr	abnormal trachea morphology	1380723
+Cftr	increased susceptibility to infection	7685652
+Cftr	increased susceptibility to bacterial infection	7540910
+Cftr	small uterus	18325992
+Cftr	decreased corpora lutea number	18325992
+Cftr	abnormal pancreas physiology	7560099
+Cftr	abnormal vas deferens morphology	1382232
+Cftr	abnormal bile duct morphology	8605891
+Cftr	gallbladder inflammation	8605891
+Cftr	intestinal obstruction	1355249|7685652
+Cftr	intestinal obstruction	15246977
+Cftr	intestinal obstruction	1380723
+Cftr	intestinal obstruction	7505691
+Cftr	intestinal obstruction	7545494
+Cftr	intestinal obstruction	7560099
+Cftr	intestinal obstruction	7482032
+Cftr	intestinal obstruction	8589719
+Cftr	intestinal obstruction	8605891
+Cftr	peritoneal inflammation	7685652
+Cftr	peritoneal inflammation	1380723
+Cftr	peritoneal inflammation	7545494
+Cftr	peritoneal inflammation	7560099
+Cftr	peritoneal inflammation	8605891
+Cftr	acute pancreas inflammation	7505691
+Cftr	decreased ovulation rate	18325992
+Cftr	abnormal intestinal goblet cell morphology	7505691
+Cftr	abnormal intestinal goblet cell morphology	11823443
+Cftr	abnormal intestinal goblet cell morphology	7556083
+Cftr	abnormal intestinal goblet cell morphology	22711878
+Cftr	abnormal submandibular gland morphology	1380723
+Cftr	abnormal jejunum morphology	7560099
+Cftr	small pancreas	1380723
+Cftr	abnormal sperm physiology	18325992
+Cftr	abnormal phospholipid level	10570187
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	22711878
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7556083
+Cftr	decreased ovary weight	18325992
+Cftr	decreased uterus weight	18325992
+Cftr	abnormal gallbladder morphology	1380723
+Cftr	abnormal gallbladder physiology	7556083
+Cftr	cachexia	7505691
+Cftr	abnormal alveolar macrophage morphology	15246977
+Cftr	prolonged estrous cycle	18325992
+Cftr	absent estrous cycle	18325992
+Cftr	thin uterus	18325992
+Cftr	dilated pancreatic duct	7685652
+Cftr	pancreatic acinar cell atrophy	7505691
+Cftr	pancreatic acinar cell zymogen granule accumulation	10570187
+Cftr	enlarged gallbladder	7505691
+Cftr	enlarged gallbladder	8605891
+Cftr	dilated gallbladder	1380723
+Cftr	small cecum	1355249
+Cftr	coiled cecum	1380723
+Cftr	ileum hypertrophy	10570187
+Cftr	increased susceptibility to bacterial infection induced morbidity/mortality	15246977
+Cftr	abnormal intestine physiology	7545494
+Cftr	abnormal small intestinal crypt cell physiology	8589719
+Cftr	abnormal small intestinal crypt cell physiology	22711878
+Cftr	increased respiratory mucosa goblet cell number	1380723
+Cftr	increased respiratory mucosa goblet cell number	7540910
+Cftr	postnatal lethality, incomplete penetrance	1355249|7685652
+Cftr	postnatal lethality, incomplete penetrance	8605891
+Cftr	postnatal lethality, incomplete penetrance	1380723
+Cftr	postnatal lethality, incomplete penetrance	7949729
+Cftr	postnatal lethality, incomplete penetrance	7505691
+Cftr	postnatal lethality, incomplete penetrance	7545494
+Cftr	postnatal lethality, incomplete penetrance	7560099
+Cftr	postnatal lethality, incomplete penetrance	8589719
+Cftr	abnormal Brunner's gland morphology	1380723
+Cftr	dilated Brunner's glands	7560099
+Cftr	lacrimal gland atrophy	7505691
+Cftr	abnormal trachea gland morphology	1380723
+Cftr	abnormal small intestine goblet cell morphology	8589719
+Cftr	abnormal colon goblet cell morphology	8589719
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7685652
+Cftr	decreased respiratory epithelial chloride transmembrane transport	15246977
+Cftr	decreased respiratory epithelial chloride transmembrane transport	1382232
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7505691
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7545494
+Cftr	decreased respiratory epithelial chloride transmembrane transport	8605891
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7556083
+Cftr	abnormal submucosal gland morphology	8605891
+Cftr	meconium ileus	7685652|1355249
+Cftr	meconium ileus	7949729
+Cftr	meconium ileus	7545494
+Cftr	meconium ileus	8589719
+Cftr	decreased small intestinal villus number	8605891
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	7685652
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	15246977
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	8605891
+Cftr	increased respiratory epithelial sodium ion transmembrane transport	8589719
+Cftr	decreased intestinal epithelial sodium ion transmembrane transport	8605891
+Cftr	decreased intestinal epithelial chloride transmembrane transport	1382232
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7505691
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7556083
+Cftr	dilated crypts of Lieberkuhn	7685652
+Cftr	dilated crypts of Lieberkuhn	7505691
+Cftr	dilated crypts of Lieberkuhn	8605891
+Cftr	intestinal mucus accumulation	7685652
+Cftr	intestinal mucus accumulation	7505691
+Cftr	pancreatic acinus dilation	10570187
+Cftr	bile duct epithelium hyperplasia	8605891
+Cftr	decreased neutrophil cell number	15246977
+Cftr	impaired fertilization	18325992
+Cftr	abnormal intestine morphology	7685652
+Cftr	abnormal intestine morphology	1380723
+Cftr	abnormal intestine morphology	7505691
+Cftr	abnormal intestine morphology	7560099
+Cftr	abnormal crypts of Lieberkuhn morphology	7685652
+Cftr	abnormal crypts of Lieberkuhn morphology	1380723
+Cftr	abnormal crypts of Lieberkuhn morphology	7482032
+Cftr	abnormal crypts of Lieberkuhn morphology	8589719
+Cftr	crypts of Lieberkuhn abscesses	7505691
+Cftr	abnormal colon morphology	7685652
+Cftr	abnormal colon morphology	1380723
+Cftr	abnormal colon morphology	1382232
+Cftr	abnormal colon morphology	7505691
+Cftr	abnormal small intestine morphology	7685652
+Cftr	abnormal intestinal mucosa morphology	8589719
+Cftr	abnormal intestinal mucosa morphology	8605891
+Cftr	intestinal ulcer	7505691
+Cftr	abnormal hepatocyte morphology	8605891
+Cftr	abnormal salivary gland morphology	8605891
+Cftr	spleen hyperplasia	1380723
+Cftr	small ovary	18325992
+Cftr	abnormal uterine cervix morphology	18325992
+Cftr	abnormal lung morphology	7540910
+Cftr	atelectasis	1382232
+Cftr	decreased body weight	7685652
+Cftr	decreased body weight	18325992
+Cftr	decreased body weight	7560099
+Cftr	decreased body weight	8605891
+Cftr	decreased body weight	7556083
+Cftr	weight loss	7505691
+Cftr	weight loss	8589719
+Cftr	decreased body size	1380723
+Cftr	decreased body size	7560099
+Cftr	decreased body size	7482032
+Cftr	decreased body size	8589719
+Cftr	decreased body size	8605891
+Cftr	distended abdomen	1380723
+Cftr	distended abdomen	7505691
+Cftr	abnormal lacrimal gland morphology	7685652
+Cftr	abnormal gait	1380723
+Cftr	aphagia	7505691
+Cftr	abnormal digestive system physiology	7560099
+Cftr	abnormal digestive system physiology	7482032
+Cftr	abnormal digestive system physiology	11823443
+Cftr	postnatal growth retardation	15246977
+Cftr	postnatal growth retardation	7505691
+Cftr	postnatal growth retardation	8589719
+Cftr	postnatal growth retardation	15246977|18325992
+Cftr	postnatal growth retardation	7556083
+Cftr	abnormal ion homeostasis	7560099
+Cftr	abnormal fluid regulation	7560099
+Cftr	abnormal thymus involution	1380723
+Cftr	lung inflammation	15246977|10570187
+Cftr	lung inflammation	15246977
+Cftr	lung inflammation	7540910
+Cftr	reduced female fertility	18325992
+Cftr	female infertility	1380723
+Cftr	female infertility	7482032
+Cftr	decreased litter size	18325992
+Cftr	delayed sexual maturation	18325992
+Cftr	abnormal pancreas morphology	1380723
+Cftr	abnormal pancreas morphology	7482032
+Cftr	premature death	1355249|7685652
+Cftr	premature death	1380723
+Cftr	premature death	7545494
+Cftr	premature death	7482032
+Cftr	abnormal respiratory system physiology	11823443
+Cftr	abnormal gland morphology	1380723
+Cftr	abnormal gland morphology	7505691
+Cftr	abnormal nasal mucosa morphology	1380723
+Cftr	abnormal paranasal sinus morphology	1380723
+Cftr	abnormal trachea morphology	1380723
+Cftr	increased susceptibility to infection	7685652
+Cftr	increased susceptibility to bacterial infection	7540910
+Cftr	small uterus	18325992
+Cftr	decreased corpora lutea number	18325992
+Cftr	abnormal pancreas physiology	7560099
+Cftr	abnormal vas deferens morphology	1382232
+Cftr	abnormal bile duct morphology	8605891
+Cftr	gallbladder inflammation	8605891
+Cftr	intestinal obstruction	1355249|7685652
+Cftr	intestinal obstruction	15246977
+Cftr	intestinal obstruction	1380723
+Cftr	intestinal obstruction	7505691
+Cftr	intestinal obstruction	7545494
+Cftr	intestinal obstruction	7560099
+Cftr	intestinal obstruction	7482032
+Cftr	intestinal obstruction	8589719
+Cftr	intestinal obstruction	8605891
+Cftr	peritoneal inflammation	7685652
+Cftr	peritoneal inflammation	1380723
+Cftr	peritoneal inflammation	7545494
+Cftr	peritoneal inflammation	7560099
+Cftr	peritoneal inflammation	8605891
+Cftr	acute pancreas inflammation	7505691
+Cftr	decreased ovulation rate	18325992
+Cftr	abnormal intestinal goblet cell morphology	7505691
+Cftr	abnormal intestinal goblet cell morphology	11823443
+Cftr	abnormal intestinal goblet cell morphology	7556083
+Cftr	abnormal intestinal goblet cell morphology	22711878
+Cftr	abnormal submandibular gland morphology	1380723
+Cftr	abnormal jejunum morphology	7560099
+Cftr	small pancreas	1380723
+Cftr	abnormal sperm physiology	18325992
+Cftr	abnormal phospholipid level	10570187
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	22711878
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7556083
+Cftr	decreased ovary weight	18325992
+Cftr	decreased uterus weight	18325992
+Cftr	abnormal gallbladder morphology	1380723
+Cftr	abnormal gallbladder physiology	7556083
+Cftr	cachexia	7505691
+Cftr	abnormal alveolar macrophage morphology	15246977
+Cftr	prolonged estrous cycle	18325992
+Cftr	absent estrous cycle	18325992
+Cftr	thin uterus	18325992
+Cftr	dilated pancreatic duct	7685652
+Cftr	pancreatic acinar cell atrophy	7505691
+Cftr	pancreatic acinar cell zymogen granule accumulation	10570187
+Cftr	enlarged gallbladder	7505691
+Cftr	enlarged gallbladder	8605891
+Cftr	dilated gallbladder	1380723
+Cftr	small cecum	1355249
+Cftr	coiled cecum	1380723
+Cftr	ileum hypertrophy	10570187
+Cftr	increased susceptibility to bacterial infection induced morbidity/mortality	15246977
+Cftr	abnormal intestine physiology	7545494
+Cftr	abnormal small intestinal crypt cell physiology	8589719
+Cftr	abnormal small intestinal crypt cell physiology	22711878
+Cftr	increased respiratory mucosa goblet cell number	1380723
+Cftr	increased respiratory mucosa goblet cell number	7540910
+Cftr	postnatal lethality, incomplete penetrance	1355249|7685652
+Cftr	postnatal lethality, incomplete penetrance	8605891
+Cftr	postnatal lethality, incomplete penetrance	1380723
+Cftr	postnatal lethality, incomplete penetrance	7949729
+Cftr	postnatal lethality, incomplete penetrance	7505691
+Cftr	postnatal lethality, incomplete penetrance	7545494
+Cftr	postnatal lethality, incomplete penetrance	7560099
+Cftr	postnatal lethality, incomplete penetrance	8589719
+Cftr	abnormal Brunner's gland morphology	1380723
+Cftr	dilated Brunner's glands	7560099
+Cftr	lacrimal gland atrophy	7505691
+Cftr	abnormal trachea gland morphology	1380723
+Cftr	abnormal small intestine goblet cell morphology	8589719
+Cftr	abnormal colon goblet cell morphology	8589719
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7685652
+Cftr	decreased respiratory epithelial chloride transmembrane transport	15246977
+Cftr	decreased respiratory epithelial chloride transmembrane transport	1382232
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7505691
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7545494
+Cftr	decreased respiratory epithelial chloride transmembrane transport	8605891
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7556083
+Cftr	abnormal submucosal gland morphology	8605891
+Cftr	meconium ileus	7685652|1355249
+Cftr	meconium ileus	7949729
+Cftr	meconium ileus	7545494
+Cftr	meconium ileus	8589719
+Cftr	decreased small intestinal villus number	8605891
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	7685652
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	15246977
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	8605891
+Cftr	increased respiratory epithelial sodium ion transmembrane transport	8589719
+Cftr	decreased intestinal epithelial sodium ion transmembrane transport	8605891
+Cftr	decreased intestinal epithelial chloride transmembrane transport	1382232
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7505691
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7556083
+Cftr	dilated crypts of Lieberkuhn	7685652
+Cftr	dilated crypts of Lieberkuhn	7505691
+Cftr	dilated crypts of Lieberkuhn	8605891
+Cftr	intestinal mucus accumulation	7685652
+Cftr	intestinal mucus accumulation	7505691
+Cftr	pancreatic acinus dilation	10570187
+Cftr	bile duct epithelium hyperplasia	8605891
+Cftr	decreased neutrophil cell number	15246977
+Cftr	impaired fertilization	18325992
+Cftr	abnormal intestine morphology	7685652
+Cftr	abnormal intestine morphology	1380723
+Cftr	abnormal intestine morphology	7505691
+Cftr	abnormal intestine morphology	7560099
+Cftr	abnormal crypts of Lieberkuhn morphology	7685652
+Cftr	abnormal crypts of Lieberkuhn morphology	1380723
+Cftr	abnormal crypts of Lieberkuhn morphology	7482032
+Cftr	abnormal crypts of Lieberkuhn morphology	8589719
+Cftr	crypts of Lieberkuhn abscesses	7505691
+Cftr	abnormal colon morphology	7685652
+Cftr	abnormal colon morphology	1380723
+Cftr	abnormal colon morphology	1382232
+Cftr	abnormal colon morphology	7505691
+Cftr	abnormal small intestine morphology	7685652
+Cftr	abnormal intestinal mucosa morphology	8589719
+Cftr	abnormal intestinal mucosa morphology	8605891
+Cftr	intestinal ulcer	7505691
+Cftr	abnormal hepatocyte morphology	8605891
+Cftr	abnormal salivary gland morphology	8605891
+Cftr	spleen hyperplasia	1380723
+Cftr	small ovary	18325992
+Cftr	abnormal uterine cervix morphology	18325992
+Cftr	abnormal lung morphology	7540910
+Cftr	atelectasis	1382232
+Cftr	decreased body weight	7685652
+Cftr	decreased body weight	18325992
+Cftr	decreased body weight	7560099
+Cftr	decreased body weight	8605891
+Cftr	decreased body weight	7556083
+Cftr	weight loss	7505691
+Cftr	weight loss	8589719
+Cftr	decreased body size	1380723
+Cftr	decreased body size	7560099
+Cftr	decreased body size	7482032
+Cftr	decreased body size	8589719
+Cftr	decreased body size	8605891
+Cftr	distended abdomen	1380723
+Cftr	distended abdomen	7505691
+Cftr	abnormal lacrimal gland morphology	7685652
+Cftr	abnormal gait	1380723
+Cftr	aphagia	7505691
+Cftr	abnormal digestive system physiology	7560099
+Cftr	abnormal digestive system physiology	7482032
+Cftr	abnormal digestive system physiology	11823443
+Cftr	postnatal growth retardation	15246977
+Cftr	postnatal growth retardation	7505691
+Cftr	postnatal growth retardation	8589719
+Cftr	postnatal growth retardation	15246977|18325992
+Cftr	postnatal growth retardation	7556083
+Cftr	abnormal ion homeostasis	7560099
+Cftr	abnormal fluid regulation	7560099
+Cftr	abnormal thymus involution	1380723
+Cftr	lung inflammation	15246977|10570187
+Cftr	lung inflammation	15246977
+Cftr	lung inflammation	7540910
+Cftr	reduced female fertility	18325992
+Cftr	female infertility	1380723
+Cftr	female infertility	7482032
+Cftr	decreased litter size	18325992
+Cftr	delayed sexual maturation	18325992
+Cftr	abnormal pancreas morphology	1380723
+Cftr	abnormal pancreas morphology	7482032
+Cftr	premature death	1355249|7685652
+Cftr	premature death	1380723
+Cftr	premature death	7545494
+Cftr	premature death	7482032
+Cftr	abnormal respiratory system physiology	11823443
+Cftr	abnormal gland morphology	1380723
+Cftr	abnormal gland morphology	7505691
+Cftr	abnormal nasal mucosa morphology	1380723
+Cftr	abnormal paranasal sinus morphology	1380723
+Cftr	abnormal trachea morphology	1380723
+Cftr	increased susceptibility to infection	7685652
+Cftr	increased susceptibility to bacterial infection	7540910
+Cftr	small uterus	18325992
+Cftr	decreased corpora lutea number	18325992
+Cftr	abnormal pancreas physiology	7560099
+Cftr	abnormal vas deferens morphology	1382232
+Cftr	abnormal bile duct morphology	8605891
+Cftr	gallbladder inflammation	8605891
+Cftr	intestinal obstruction	1355249|7685652
+Cftr	intestinal obstruction	15246977
+Cftr	intestinal obstruction	1380723
+Cftr	intestinal obstruction	7505691
+Cftr	intestinal obstruction	7545494
+Cftr	intestinal obstruction	7560099
+Cftr	intestinal obstruction	7482032
+Cftr	intestinal obstruction	8589719
+Cftr	intestinal obstruction	8605891
+Cftr	peritoneal inflammation	7685652
+Cftr	peritoneal inflammation	1380723
+Cftr	peritoneal inflammation	7545494
+Cftr	peritoneal inflammation	7560099
+Cftr	peritoneal inflammation	8605891
+Cftr	acute pancreas inflammation	7505691
+Cftr	decreased ovulation rate	18325992
+Cftr	abnormal intestinal goblet cell morphology	7505691
+Cftr	abnormal intestinal goblet cell morphology	11823443
+Cftr	abnormal intestinal goblet cell morphology	7556083
+Cftr	abnormal intestinal goblet cell morphology	22711878
+Cftr	abnormal submandibular gland morphology	1380723
+Cftr	abnormal jejunum morphology	7560099
+Cftr	small pancreas	1380723
+Cftr	abnormal sperm physiology	18325992
+Cftr	abnormal phospholipid level	10570187
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	22711878
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7556083
+Cftr	decreased ovary weight	18325992
+Cftr	decreased uterus weight	18325992
+Cftr	abnormal gallbladder morphology	1380723
+Cftr	abnormal gallbladder physiology	7556083
+Cftr	cachexia	7505691
+Cftr	abnormal alveolar macrophage morphology	15246977
+Cftr	prolonged estrous cycle	18325992
+Cftr	absent estrous cycle	18325992
+Cftr	thin uterus	18325992
+Cftr	dilated pancreatic duct	7685652
+Cftr	pancreatic acinar cell atrophy	7505691
+Cftr	pancreatic acinar cell zymogen granule accumulation	10570187
+Cftr	enlarged gallbladder	7505691
+Cftr	enlarged gallbladder	8605891
+Cftr	dilated gallbladder	1380723
+Cftr	small cecum	1355249
+Cftr	coiled cecum	1380723
+Cftr	ileum hypertrophy	10570187
+Cftr	increased susceptibility to bacterial infection induced morbidity/mortality	15246977
+Cftr	abnormal intestine physiology	7545494
+Cftr	abnormal small intestinal crypt cell physiology	8589719
+Cftr	abnormal small intestinal crypt cell physiology	22711878
+Cftr	increased respiratory mucosa goblet cell number	1380723
+Cftr	increased respiratory mucosa goblet cell number	7540910
+Cftr	postnatal lethality, incomplete penetrance	1355249|7685652
+Cftr	postnatal lethality, incomplete penetrance	8605891
+Cftr	postnatal lethality, incomplete penetrance	1380723
+Cftr	postnatal lethality, incomplete penetrance	7949729
+Cftr	postnatal lethality, incomplete penetrance	7505691
+Cftr	postnatal lethality, incomplete penetrance	7545494
+Cftr	postnatal lethality, incomplete penetrance	7560099
+Cftr	postnatal lethality, incomplete penetrance	8589719
+Cftr	abnormal Brunner's gland morphology	1380723
+Cftr	dilated Brunner's glands	7560099
+Cftr	lacrimal gland atrophy	7505691
+Cftr	abnormal trachea gland morphology	1380723
+Cftr	abnormal small intestine goblet cell morphology	8589719
+Cftr	abnormal colon goblet cell morphology	8589719
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7685652
+Cftr	decreased respiratory epithelial chloride transmembrane transport	15246977
+Cftr	decreased respiratory epithelial chloride transmembrane transport	1382232
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7505691
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7545494
+Cftr	decreased respiratory epithelial chloride transmembrane transport	8605891
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7556083
+Cftr	abnormal submucosal gland morphology	8605891
+Cftr	meconium ileus	7685652|1355249
+Cftr	meconium ileus	7949729
+Cftr	meconium ileus	7545494
+Cftr	meconium ileus	8589719
+Cftr	decreased small intestinal villus number	8605891
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	7685652
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	15246977
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	8605891
+Cftr	increased respiratory epithelial sodium ion transmembrane transport	8589719
+Cftr	decreased intestinal epithelial sodium ion transmembrane transport	8605891
+Cftr	decreased intestinal epithelial chloride transmembrane transport	1382232
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7505691
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7556083
+Cftr	dilated crypts of Lieberkuhn	7685652
+Cftr	dilated crypts of Lieberkuhn	7505691
+Cftr	dilated crypts of Lieberkuhn	8605891
+Cftr	intestinal mucus accumulation	7685652
+Cftr	intestinal mucus accumulation	7505691
+Cftr	pancreatic acinus dilation	10570187
+Cftr	bile duct epithelium hyperplasia	8605891
+Cftr	decreased neutrophil cell number	15246977
+Cftr	impaired fertilization	18325992
+Cftr	abnormal intestine morphology	7685652
+Cftr	abnormal intestine morphology	1380723
+Cftr	abnormal intestine morphology	7505691
+Cftr	abnormal intestine morphology	7560099
+Cftr	abnormal crypts of Lieberkuhn morphology	7685652
+Cftr	abnormal crypts of Lieberkuhn morphology	1380723
+Cftr	abnormal crypts of Lieberkuhn morphology	7482032
+Cftr	abnormal crypts of Lieberkuhn morphology	8589719
+Cftr	crypts of Lieberkuhn abscesses	7505691
+Cftr	abnormal colon morphology	7685652
+Cftr	abnormal colon morphology	1380723
+Cftr	abnormal colon morphology	1382232
+Cftr	abnormal colon morphology	7505691
+Cftr	abnormal small intestine morphology	7685652
+Cftr	abnormal intestinal mucosa morphology	8589719
+Cftr	abnormal intestinal mucosa morphology	8605891
+Cftr	intestinal ulcer	7505691
+Cftr	abnormal hepatocyte morphology	8605891
+Cftr	abnormal salivary gland morphology	8605891
+Cftr	spleen hyperplasia	1380723
+Cftr	small ovary	18325992
+Cftr	abnormal uterine cervix morphology	18325992
+Cftr	abnormal lung morphology	7540910
+Cftr	atelectasis	1382232
+Cftr	decreased body weight	7685652
+Cftr	decreased body weight	18325992
+Cftr	decreased body weight	7560099
+Cftr	decreased body weight	8605891
+Cftr	decreased body weight	7556083
+Cftr	weight loss	7505691
+Cftr	weight loss	8589719
+Cftr	decreased body size	1380723
+Cftr	decreased body size	7560099
+Cftr	decreased body size	7482032
+Cftr	decreased body size	8589719
+Cftr	decreased body size	8605891
+Cftr	distended abdomen	1380723
+Cftr	distended abdomen	7505691
+Cftr	abnormal lacrimal gland morphology	7685652
+Cftr	abnormal gait	1380723
+Cftr	aphagia	7505691
+Cftr	abnormal digestive system physiology	7560099
+Cftr	abnormal digestive system physiology	7482032
+Cftr	abnormal digestive system physiology	11823443
+Cftr	postnatal growth retardation	15246977
+Cftr	postnatal growth retardation	7505691
+Cftr	postnatal growth retardation	8589719
+Cftr	postnatal growth retardation	15246977|18325992
+Cftr	postnatal growth retardation	7556083
+Cftr	abnormal ion homeostasis	7560099
+Cftr	abnormal fluid regulation	7560099
+Cftr	abnormal thymus involution	1380723
+Cftr	lung inflammation	15246977|10570187
+Cftr	lung inflammation	15246977
+Cftr	lung inflammation	7540910
+Cftr	reduced female fertility	18325992
+Cftr	female infertility	1380723
+Cftr	female infertility	7482032
+Cftr	decreased litter size	18325992
+Cftr	delayed sexual maturation	18325992
+Cftr	abnormal pancreas morphology	1380723
+Cftr	abnormal pancreas morphology	7482032
+Cftr	premature death	1355249|7685652
+Cftr	premature death	1380723
+Cftr	premature death	7545494
+Cftr	premature death	7482032
+Cftr	abnormal respiratory system physiology	11823443
+Cftr	abnormal gland morphology	1380723
+Cftr	abnormal gland morphology	7505691
+Cftr	abnormal nasal mucosa morphology	1380723
+Cftr	abnormal paranasal sinus morphology	1380723
+Cftr	abnormal trachea morphology	1380723
+Cftr	increased susceptibility to infection	7685652
+Cftr	increased susceptibility to bacterial infection	7540910
+Cftr	small uterus	18325992
+Cftr	decreased corpora lutea number	18325992
+Cftr	abnormal pancreas physiology	7560099
+Cftr	abnormal vas deferens morphology	1382232
+Cftr	abnormal bile duct morphology	8605891
+Cftr	gallbladder inflammation	8605891
+Cftr	intestinal obstruction	1355249|7685652
+Cftr	intestinal obstruction	15246977
+Cftr	intestinal obstruction	1380723
+Cftr	intestinal obstruction	7505691
+Cftr	intestinal obstruction	7545494
+Cftr	intestinal obstruction	7560099
+Cftr	intestinal obstruction	7482032
+Cftr	intestinal obstruction	8589719
+Cftr	intestinal obstruction	8605891
+Cftr	peritoneal inflammation	7685652
+Cftr	peritoneal inflammation	1380723
+Cftr	peritoneal inflammation	7545494
+Cftr	peritoneal inflammation	7560099
+Cftr	peritoneal inflammation	8605891
+Cftr	acute pancreas inflammation	7505691
+Cftr	decreased ovulation rate	18325992
+Cftr	abnormal intestinal goblet cell morphology	7505691
+Cftr	abnormal intestinal goblet cell morphology	11823443
+Cftr	abnormal intestinal goblet cell morphology	7556083
+Cftr	abnormal intestinal goblet cell morphology	22711878
+Cftr	abnormal submandibular gland morphology	1380723
+Cftr	abnormal jejunum morphology	7560099
+Cftr	small pancreas	1380723
+Cftr	abnormal sperm physiology	18325992
+Cftr	abnormal phospholipid level	10570187
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	22711878
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7556083
+Cftr	decreased ovary weight	18325992
+Cftr	decreased uterus weight	18325992
+Cftr	abnormal gallbladder morphology	1380723
+Cftr	abnormal gallbladder physiology	7556083
+Cftr	cachexia	7505691
+Cftr	abnormal alveolar macrophage morphology	15246977
+Cftr	prolonged estrous cycle	18325992
+Cftr	absent estrous cycle	18325992
+Cftr	thin uterus	18325992
+Cftr	dilated pancreatic duct	7685652
+Cftr	pancreatic acinar cell atrophy	7505691
+Cftr	pancreatic acinar cell zymogen granule accumulation	10570187
+Cftr	enlarged gallbladder	7505691
+Cftr	enlarged gallbladder	8605891
+Cftr	dilated gallbladder	1380723
+Cftr	small cecum	1355249
+Cftr	coiled cecum	1380723
+Cftr	ileum hypertrophy	10570187
+Cftr	increased susceptibility to bacterial infection induced morbidity/mortality	15246977
+Cftr	abnormal intestine physiology	7545494
+Cftr	abnormal small intestinal crypt cell physiology	8589719
+Cftr	abnormal small intestinal crypt cell physiology	22711878
+Cftr	increased respiratory mucosa goblet cell number	1380723
+Cftr	increased respiratory mucosa goblet cell number	7540910
+Cftr	postnatal lethality, incomplete penetrance	1355249|7685652
+Cftr	postnatal lethality, incomplete penetrance	8605891
+Cftr	postnatal lethality, incomplete penetrance	1380723
+Cftr	postnatal lethality, incomplete penetrance	7949729
+Cftr	postnatal lethality, incomplete penetrance	7505691
+Cftr	postnatal lethality, incomplete penetrance	7545494
+Cftr	postnatal lethality, incomplete penetrance	7560099
+Cftr	postnatal lethality, incomplete penetrance	8589719
+Cftr	abnormal Brunner's gland morphology	1380723
+Cftr	dilated Brunner's glands	7560099
+Cftr	lacrimal gland atrophy	7505691
+Cftr	abnormal trachea gland morphology	1380723
+Cftr	abnormal small intestine goblet cell morphology	8589719
+Cftr	abnormal colon goblet cell morphology	8589719
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7685652
+Cftr	decreased respiratory epithelial chloride transmembrane transport	15246977
+Cftr	decreased respiratory epithelial chloride transmembrane transport	1382232
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7505691
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7545494
+Cftr	decreased respiratory epithelial chloride transmembrane transport	8605891
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7556083
+Cftr	abnormal submucosal gland morphology	8605891
+Cftr	meconium ileus	7685652|1355249
+Cftr	meconium ileus	7949729
+Cftr	meconium ileus	7545494
+Cftr	meconium ileus	8589719
+Cftr	decreased small intestinal villus number	8605891
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	7685652
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	15246977
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	8605891
+Cftr	increased respiratory epithelial sodium ion transmembrane transport	8589719
+Cftr	decreased intestinal epithelial sodium ion transmembrane transport	8605891
+Cftr	decreased intestinal epithelial chloride transmembrane transport	1382232
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7505691
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7556083
+Cftr	dilated crypts of Lieberkuhn	7685652
+Cftr	dilated crypts of Lieberkuhn	7505691
+Cftr	dilated crypts of Lieberkuhn	8605891
+Cftr	intestinal mucus accumulation	7685652
+Cftr	intestinal mucus accumulation	7505691
+Cftr	pancreatic acinus dilation	10570187
+Cftr	bile duct epithelium hyperplasia	8605891
+Cftr	decreased neutrophil cell number	15246977
+Cftr	impaired fertilization	18325992
+Cftr	abnormal intestine morphology	7685652
+Cftr	abnormal intestine morphology	1380723
+Cftr	abnormal intestine morphology	7505691
+Cftr	abnormal intestine morphology	7560099
+Cftr	abnormal crypts of Lieberkuhn morphology	7685652
+Cftr	abnormal crypts of Lieberkuhn morphology	1380723
+Cftr	abnormal crypts of Lieberkuhn morphology	7482032
+Cftr	abnormal crypts of Lieberkuhn morphology	8589719
+Cftr	crypts of Lieberkuhn abscesses	7505691
+Cftr	abnormal colon morphology	7685652
+Cftr	abnormal colon morphology	1380723
+Cftr	abnormal colon morphology	1382232
+Cftr	abnormal colon morphology	7505691
+Cftr	abnormal small intestine morphology	7685652
+Cftr	abnormal intestinal mucosa morphology	8589719
+Cftr	abnormal intestinal mucosa morphology	8605891
+Cftr	intestinal ulcer	7505691
+Cftr	abnormal hepatocyte morphology	8605891
+Cftr	abnormal salivary gland morphology	8605891
+Cftr	spleen hyperplasia	1380723
+Cftr	small ovary	18325992
+Cftr	abnormal uterine cervix morphology	18325992
+Cftr	abnormal lung morphology	7540910
+Cftr	atelectasis	1382232
+Cftr	decreased body weight	7685652
+Cftr	decreased body weight	18325992
+Cftr	decreased body weight	7560099
+Cftr	decreased body weight	8605891
+Cftr	decreased body weight	7556083
+Cftr	weight loss	7505691
+Cftr	weight loss	8589719
+Cftr	decreased body size	1380723
+Cftr	decreased body size	7560099
+Cftr	decreased body size	7482032
+Cftr	decreased body size	8589719
+Cftr	decreased body size	8605891
+Cftr	distended abdomen	1380723
+Cftr	distended abdomen	7505691
+Cftr	abnormal lacrimal gland morphology	7685652
+Cftr	abnormal gait	1380723
+Cftr	aphagia	7505691
+Cftr	abnormal digestive system physiology	7560099
+Cftr	abnormal digestive system physiology	7482032
+Cftr	abnormal digestive system physiology	11823443
+Cftr	postnatal growth retardation	15246977
+Cftr	postnatal growth retardation	7505691
+Cftr	postnatal growth retardation	8589719
+Cftr	postnatal growth retardation	15246977|18325992
+Cftr	postnatal growth retardation	7556083
+Cftr	abnormal ion homeostasis	7560099
+Cftr	abnormal fluid regulation	7560099
+Cftr	abnormal thymus involution	1380723
+Cftr	lung inflammation	15246977|10570187
+Cftr	lung inflammation	15246977
+Cftr	lung inflammation	7540910
+Cftr	reduced female fertility	18325992
+Cftr	female infertility	1380723
+Cftr	female infertility	7482032
+Cftr	decreased litter size	18325992
+Cftr	delayed sexual maturation	18325992
+Cftr	abnormal pancreas morphology	1380723
+Cftr	abnormal pancreas morphology	7482032
+Cftr	premature death	1355249|7685652
+Cftr	premature death	1380723
+Cftr	premature death	7545494
+Cftr	premature death	7482032
+Cftr	abnormal respiratory system physiology	11823443
+Cftr	abnormal gland morphology	1380723
+Cftr	abnormal gland morphology	7505691
+Cftr	abnormal nasal mucosa morphology	1380723
+Cftr	abnormal paranasal sinus morphology	1380723
+Cftr	abnormal trachea morphology	1380723
+Cftr	increased susceptibility to infection	7685652
+Cftr	increased susceptibility to bacterial infection	7540910
+Cftr	small uterus	18325992
+Cftr	decreased corpora lutea number	18325992
+Cftr	abnormal pancreas physiology	7560099
+Cftr	abnormal vas deferens morphology	1382232
+Cftr	abnormal bile duct morphology	8605891
+Cftr	gallbladder inflammation	8605891
+Cftr	intestinal obstruction	1355249|7685652
+Cftr	intestinal obstruction	15246977
+Cftr	intestinal obstruction	1380723
+Cftr	intestinal obstruction	7505691
+Cftr	intestinal obstruction	7545494
+Cftr	intestinal obstruction	7560099
+Cftr	intestinal obstruction	7482032
+Cftr	intestinal obstruction	8589719
+Cftr	intestinal obstruction	8605891
+Cftr	peritoneal inflammation	7685652
+Cftr	peritoneal inflammation	1380723
+Cftr	peritoneal inflammation	7545494
+Cftr	peritoneal inflammation	7560099
+Cftr	peritoneal inflammation	8605891
+Cftr	acute pancreas inflammation	7505691
+Cftr	decreased ovulation rate	18325992
+Cftr	abnormal intestinal goblet cell morphology	7505691
+Cftr	abnormal intestinal goblet cell morphology	11823443
+Cftr	abnormal intestinal goblet cell morphology	7556083
+Cftr	abnormal intestinal goblet cell morphology	22711878
+Cftr	abnormal submandibular gland morphology	1380723
+Cftr	abnormal jejunum morphology	7560099
+Cftr	small pancreas	1380723
+Cftr	abnormal sperm physiology	18325992
+Cftr	abnormal phospholipid level	10570187
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	22711878
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7556083
+Cftr	decreased ovary weight	18325992
+Cftr	decreased uterus weight	18325992
+Cftr	abnormal gallbladder morphology	1380723
+Cftr	abnormal gallbladder physiology	7556083
+Cftr	cachexia	7505691
+Cftr	abnormal alveolar macrophage morphology	15246977
+Cftr	prolonged estrous cycle	18325992
+Cftr	absent estrous cycle	18325992
+Cftr	thin uterus	18325992
+Cftr	dilated pancreatic duct	7685652
+Cftr	pancreatic acinar cell atrophy	7505691
+Cftr	pancreatic acinar cell zymogen granule accumulation	10570187
+Cftr	enlarged gallbladder	7505691
+Cftr	enlarged gallbladder	8605891
+Cftr	dilated gallbladder	1380723
+Cftr	small cecum	1355249
+Cftr	coiled cecum	1380723
+Cftr	ileum hypertrophy	10570187
+Cftr	increased susceptibility to bacterial infection induced morbidity/mortality	15246977
+Cftr	abnormal intestine physiology	7545494
+Cftr	abnormal small intestinal crypt cell physiology	8589719
+Cftr	abnormal small intestinal crypt cell physiology	22711878
+Cftr	increased respiratory mucosa goblet cell number	1380723
+Cftr	increased respiratory mucosa goblet cell number	7540910
+Cftr	postnatal lethality, incomplete penetrance	1355249|7685652
+Cftr	postnatal lethality, incomplete penetrance	8605891
+Cftr	postnatal lethality, incomplete penetrance	1380723
+Cftr	postnatal lethality, incomplete penetrance	7949729
+Cftr	postnatal lethality, incomplete penetrance	7505691
+Cftr	postnatal lethality, incomplete penetrance	7545494
+Cftr	postnatal lethality, incomplete penetrance	7560099
+Cftr	postnatal lethality, incomplete penetrance	8589719
+Cftr	abnormal Brunner's gland morphology	1380723
+Cftr	dilated Brunner's glands	7560099
+Cftr	lacrimal gland atrophy	7505691
+Cftr	abnormal trachea gland morphology	1380723
+Cftr	abnormal small intestine goblet cell morphology	8589719
+Cftr	abnormal colon goblet cell morphology	8589719
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7685652
+Cftr	decreased respiratory epithelial chloride transmembrane transport	15246977
+Cftr	decreased respiratory epithelial chloride transmembrane transport	1382232
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7505691
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7545494
+Cftr	decreased respiratory epithelial chloride transmembrane transport	8605891
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7556083
+Cftr	abnormal submucosal gland morphology	8605891
+Cftr	meconium ileus	7685652|1355249
+Cftr	meconium ileus	7949729
+Cftr	meconium ileus	7545494
+Cftr	meconium ileus	8589719
+Cftr	decreased small intestinal villus number	8605891
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	7685652
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	15246977
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	8605891
+Cftr	increased respiratory epithelial sodium ion transmembrane transport	8589719
+Cftr	decreased intestinal epithelial sodium ion transmembrane transport	8605891
+Cftr	decreased intestinal epithelial chloride transmembrane transport	1382232
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7505691
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7556083
+Cftr	dilated crypts of Lieberkuhn	7685652
+Cftr	dilated crypts of Lieberkuhn	7505691
+Cftr	dilated crypts of Lieberkuhn	8605891
+Cftr	intestinal mucus accumulation	7685652
+Cftr	intestinal mucus accumulation	7505691
+Cftr	pancreatic acinus dilation	10570187
+Cftr	bile duct epithelium hyperplasia	8605891
+Cftr	decreased neutrophil cell number	15246977
+Cftr	impaired fertilization	18325992
+Cftr	abnormal intestine morphology	7685652
+Cftr	abnormal intestine morphology	1380723
+Cftr	abnormal intestine morphology	7505691
+Cftr	abnormal intestine morphology	7560099
+Cftr	abnormal crypts of Lieberkuhn morphology	7685652
+Cftr	abnormal crypts of Lieberkuhn morphology	1380723
+Cftr	abnormal crypts of Lieberkuhn morphology	7482032
+Cftr	abnormal crypts of Lieberkuhn morphology	8589719
+Cftr	crypts of Lieberkuhn abscesses	7505691
+Cftr	abnormal colon morphology	7685652
+Cftr	abnormal colon morphology	1380723
+Cftr	abnormal colon morphology	1382232
+Cftr	abnormal colon morphology	7505691
+Cftr	abnormal small intestine morphology	7685652
+Cftr	abnormal intestinal mucosa morphology	8589719
+Cftr	abnormal intestinal mucosa morphology	8605891
+Cftr	intestinal ulcer	7505691
+Cftr	abnormal hepatocyte morphology	8605891
+Cftr	abnormal salivary gland morphology	8605891
+Cftr	spleen hyperplasia	1380723
+Cftr	small ovary	18325992
+Cftr	abnormal uterine cervix morphology	18325992
+Cftr	abnormal lung morphology	7540910
+Cftr	atelectasis	1382232
+Cftr	decreased body weight	7685652
+Cftr	decreased body weight	18325992
+Cftr	decreased body weight	7560099
+Cftr	decreased body weight	8605891
+Cftr	decreased body weight	7556083
+Cftr	weight loss	7505691
+Cftr	weight loss	8589719
+Cftr	decreased body size	1380723
+Cftr	decreased body size	7560099
+Cftr	decreased body size	7482032
+Cftr	decreased body size	8589719
+Cftr	decreased body size	8605891
+Cftr	distended abdomen	1380723
+Cftr	distended abdomen	7505691
+Cftr	abnormal lacrimal gland morphology	7685652
+Cftr	abnormal gait	1380723
+Cftr	aphagia	7505691
+Cftr	abnormal digestive system physiology	7560099
+Cftr	abnormal digestive system physiology	7482032
+Cftr	abnormal digestive system physiology	11823443
+Cftr	postnatal growth retardation	15246977
+Cftr	postnatal growth retardation	7505691
+Cftr	postnatal growth retardation	8589719
+Cftr	postnatal growth retardation	15246977|18325992
+Cftr	postnatal growth retardation	7556083
+Cftr	abnormal ion homeostasis	7560099
+Cftr	abnormal fluid regulation	7560099
+Cftr	abnormal thymus involution	1380723
+Cftr	lung inflammation	15246977|10570187
+Cftr	lung inflammation	15246977
+Cftr	lung inflammation	7540910
+Cftr	reduced female fertility	18325992
+Cftr	female infertility	1380723
+Cftr	female infertility	7482032
+Cftr	decreased litter size	18325992
+Cftr	delayed sexual maturation	18325992
+Cftr	abnormal pancreas morphology	1380723
+Cftr	abnormal pancreas morphology	7482032
+Cftr	premature death	1355249|7685652
+Cftr	premature death	1380723
+Cftr	premature death	7545494
+Cftr	premature death	7482032
+Cftr	abnormal respiratory system physiology	11823443
+Cftr	abnormal gland morphology	1380723
+Cftr	abnormal gland morphology	7505691
+Cftr	abnormal nasal mucosa morphology	1380723
+Cftr	abnormal paranasal sinus morphology	1380723
+Cftr	abnormal trachea morphology	1380723
+Cftr	increased susceptibility to infection	7685652
+Cftr	increased susceptibility to bacterial infection	7540910
+Cftr	small uterus	18325992
+Cftr	decreased corpora lutea number	18325992
+Cftr	abnormal pancreas physiology	7560099
+Cftr	abnormal vas deferens morphology	1382232
+Cftr	abnormal bile duct morphology	8605891
+Cftr	gallbladder inflammation	8605891
+Cftr	intestinal obstruction	1355249|7685652
+Cftr	intestinal obstruction	15246977
+Cftr	intestinal obstruction	1380723
+Cftr	intestinal obstruction	7505691
+Cftr	intestinal obstruction	7545494
+Cftr	intestinal obstruction	7560099
+Cftr	intestinal obstruction	7482032
+Cftr	intestinal obstruction	8589719
+Cftr	intestinal obstruction	8605891
+Cftr	peritoneal inflammation	7685652
+Cftr	peritoneal inflammation	1380723
+Cftr	peritoneal inflammation	7545494
+Cftr	peritoneal inflammation	7560099
+Cftr	peritoneal inflammation	8605891
+Cftr	acute pancreas inflammation	7505691
+Cftr	decreased ovulation rate	18325992
+Cftr	abnormal intestinal goblet cell morphology	7505691
+Cftr	abnormal intestinal goblet cell morphology	11823443
+Cftr	abnormal intestinal goblet cell morphology	7556083
+Cftr	abnormal intestinal goblet cell morphology	22711878
+Cftr	abnormal submandibular gland morphology	1380723
+Cftr	abnormal jejunum morphology	7560099
+Cftr	small pancreas	1380723
+Cftr	abnormal sperm physiology	18325992
+Cftr	abnormal phospholipid level	10570187
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	22711878
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7556083
+Cftr	decreased ovary weight	18325992
+Cftr	decreased uterus weight	18325992
+Cftr	abnormal gallbladder morphology	1380723
+Cftr	abnormal gallbladder physiology	7556083
+Cftr	cachexia	7505691
+Cftr	abnormal alveolar macrophage morphology	15246977
+Cftr	prolonged estrous cycle	18325992
+Cftr	absent estrous cycle	18325992
+Cftr	thin uterus	18325992
+Cftr	dilated pancreatic duct	7685652
+Cftr	pancreatic acinar cell atrophy	7505691
+Cftr	pancreatic acinar cell zymogen granule accumulation	10570187
+Cftr	enlarged gallbladder	7505691
+Cftr	enlarged gallbladder	8605891
+Cftr	dilated gallbladder	1380723
+Cftr	small cecum	1355249
+Cftr	coiled cecum	1380723
+Cftr	ileum hypertrophy	10570187
+Cftr	increased susceptibility to bacterial infection induced morbidity/mortality	15246977
+Cftr	abnormal intestine physiology	7545494
+Cftr	abnormal small intestinal crypt cell physiology	8589719
+Cftr	abnormal small intestinal crypt cell physiology	22711878
+Cftr	increased respiratory mucosa goblet cell number	1380723
+Cftr	increased respiratory mucosa goblet cell number	7540910
+Cftr	postnatal lethality, incomplete penetrance	1355249|7685652
+Cftr	postnatal lethality, incomplete penetrance	8605891
+Cftr	postnatal lethality, incomplete penetrance	1380723
+Cftr	postnatal lethality, incomplete penetrance	7949729
+Cftr	postnatal lethality, incomplete penetrance	7505691
+Cftr	postnatal lethality, incomplete penetrance	7545494
+Cftr	postnatal lethality, incomplete penetrance	7560099
+Cftr	postnatal lethality, incomplete penetrance	8589719
+Cftr	abnormal Brunner's gland morphology	1380723
+Cftr	dilated Brunner's glands	7560099
+Cftr	lacrimal gland atrophy	7505691
+Cftr	abnormal trachea gland morphology	1380723
+Cftr	abnormal small intestine goblet cell morphology	8589719
+Cftr	abnormal colon goblet cell morphology	8589719
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7685652
+Cftr	decreased respiratory epithelial chloride transmembrane transport	15246977
+Cftr	decreased respiratory epithelial chloride transmembrane transport	1382232
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7505691
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7545494
+Cftr	decreased respiratory epithelial chloride transmembrane transport	8605891
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7556083
+Cftr	abnormal submucosal gland morphology	8605891
+Cftr	meconium ileus	7685652|1355249
+Cftr	meconium ileus	7949729
+Cftr	meconium ileus	7545494
+Cftr	meconium ileus	8589719
+Cftr	decreased small intestinal villus number	8605891
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	7685652
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	15246977
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	8605891
+Cftr	increased respiratory epithelial sodium ion transmembrane transport	8589719
+Cftr	decreased intestinal epithelial sodium ion transmembrane transport	8605891
+Cftr	decreased intestinal epithelial chloride transmembrane transport	1382232
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7505691
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7556083
+Cftr	dilated crypts of Lieberkuhn	7685652
+Cftr	dilated crypts of Lieberkuhn	7505691
+Cftr	dilated crypts of Lieberkuhn	8605891
+Cftr	intestinal mucus accumulation	7685652
+Cftr	intestinal mucus accumulation	7505691
+Cftr	pancreatic acinus dilation	10570187
+Cftr	bile duct epithelium hyperplasia	8605891
+Cftr	decreased neutrophil cell number	15246977
+Cftr	impaired fertilization	18325992
+Cftr	abnormal intestine morphology	7685652
+Cftr	abnormal intestine morphology	1380723
+Cftr	abnormal intestine morphology	7505691
+Cftr	abnormal intestine morphology	7560099
+Cftr	abnormal crypts of Lieberkuhn morphology	7685652
+Cftr	abnormal crypts of Lieberkuhn morphology	1380723
+Cftr	abnormal crypts of Lieberkuhn morphology	7482032
+Cftr	abnormal crypts of Lieberkuhn morphology	8589719
+Cftr	crypts of Lieberkuhn abscesses	7505691
+Cftr	abnormal colon morphology	7685652
+Cftr	abnormal colon morphology	1380723
+Cftr	abnormal colon morphology	1382232
+Cftr	abnormal colon morphology	7505691
+Cftr	abnormal small intestine morphology	7685652
+Cftr	abnormal intestinal mucosa morphology	8589719
+Cftr	abnormal intestinal mucosa morphology	8605891
+Cftr	intestinal ulcer	7505691
+Cftr	abnormal hepatocyte morphology	8605891
+Cftr	abnormal salivary gland morphology	8605891
+Cftr	spleen hyperplasia	1380723
+Cftr	small ovary	18325992
+Cftr	abnormal uterine cervix morphology	18325992
+Cftr	abnormal lung morphology	7540910
+Cftr	atelectasis	1382232
+Cftr	decreased body weight	7685652
+Cftr	decreased body weight	18325992
+Cftr	decreased body weight	7560099
+Cftr	decreased body weight	8605891
+Cftr	decreased body weight	7556083
+Cftr	weight loss	7505691
+Cftr	weight loss	8589719
+Cftr	decreased body size	1380723
+Cftr	decreased body size	7560099
+Cftr	decreased body size	7482032
+Cftr	decreased body size	8589719
+Cftr	decreased body size	8605891
+Cftr	distended abdomen	1380723
+Cftr	distended abdomen	7505691
+Cftr	abnormal lacrimal gland morphology	7685652
+Cftr	abnormal gait	1380723
+Cftr	aphagia	7505691
+Cftr	abnormal digestive system physiology	7560099
+Cftr	abnormal digestive system physiology	7482032
+Cftr	abnormal digestive system physiology	11823443
+Cftr	postnatal growth retardation	15246977
+Cftr	postnatal growth retardation	7505691
+Cftr	postnatal growth retardation	8589719
+Cftr	postnatal growth retardation	15246977|18325992
+Cftr	postnatal growth retardation	7556083
+Cftr	abnormal ion homeostasis	7560099
+Cftr	abnormal fluid regulation	7560099
+Cftr	abnormal thymus involution	1380723
+Cftr	lung inflammation	15246977|10570187
+Cftr	lung inflammation	15246977
+Cftr	lung inflammation	7540910
+Cftr	reduced female fertility	18325992
+Cftr	female infertility	1380723
+Cftr	female infertility	7482032
+Cftr	decreased litter size	18325992
+Cftr	delayed sexual maturation	18325992
+Cftr	abnormal pancreas morphology	1380723
+Cftr	abnormal pancreas morphology	7482032
+Cftr	premature death	1355249|7685652
+Cftr	premature death	1380723
+Cftr	premature death	7545494
+Cftr	premature death	7482032
+Cftr	abnormal respiratory system physiology	11823443
+Cftr	abnormal gland morphology	1380723
+Cftr	abnormal gland morphology	7505691
+Cftr	abnormal nasal mucosa morphology	1380723
+Cftr	abnormal paranasal sinus morphology	1380723
+Cftr	abnormal trachea morphology	1380723
+Cftr	increased susceptibility to infection	7685652
+Cftr	increased susceptibility to bacterial infection	7540910
+Cftr	small uterus	18325992
+Cftr	decreased corpora lutea number	18325992
+Cftr	abnormal pancreas physiology	7560099
+Cftr	abnormal vas deferens morphology	1382232
+Cftr	abnormal bile duct morphology	8605891
+Cftr	gallbladder inflammation	8605891
+Cftr	intestinal obstruction	1355249|7685652
+Cftr	intestinal obstruction	15246977
+Cftr	intestinal obstruction	1380723
+Cftr	intestinal obstruction	7505691
+Cftr	intestinal obstruction	7545494
+Cftr	intestinal obstruction	7560099
+Cftr	intestinal obstruction	7482032
+Cftr	intestinal obstruction	8589719
+Cftr	intestinal obstruction	8605891
+Cftr	peritoneal inflammation	7685652
+Cftr	peritoneal inflammation	1380723
+Cftr	peritoneal inflammation	7545494
+Cftr	peritoneal inflammation	7560099
+Cftr	peritoneal inflammation	8605891
+Cftr	acute pancreas inflammation	7505691
+Cftr	decreased ovulation rate	18325992
+Cftr	abnormal intestinal goblet cell morphology	7505691
+Cftr	abnormal intestinal goblet cell morphology	11823443
+Cftr	abnormal intestinal goblet cell morphology	7556083
+Cftr	abnormal intestinal goblet cell morphology	22711878
+Cftr	abnormal submandibular gland morphology	1380723
+Cftr	abnormal jejunum morphology	7560099
+Cftr	small pancreas	1380723
+Cftr	abnormal sperm physiology	18325992
+Cftr	abnormal phospholipid level	10570187
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	22711878
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7556083
+Cftr	decreased ovary weight	18325992
+Cftr	decreased uterus weight	18325992
+Cftr	abnormal gallbladder morphology	1380723
+Cftr	abnormal gallbladder physiology	7556083
+Cftr	cachexia	7505691
+Cftr	abnormal alveolar macrophage morphology	15246977
+Cftr	prolonged estrous cycle	18325992
+Cftr	absent estrous cycle	18325992
+Cftr	thin uterus	18325992
+Cftr	dilated pancreatic duct	7685652
+Cftr	pancreatic acinar cell atrophy	7505691
+Cftr	pancreatic acinar cell zymogen granule accumulation	10570187
+Cftr	enlarged gallbladder	7505691
+Cftr	enlarged gallbladder	8605891
+Cftr	dilated gallbladder	1380723
+Cftr	small cecum	1355249
+Cftr	coiled cecum	1380723
+Cftr	ileum hypertrophy	10570187
+Cftr	increased susceptibility to bacterial infection induced morbidity/mortality	15246977
+Cftr	abnormal intestine physiology	7545494
+Cftr	abnormal small intestinal crypt cell physiology	8589719
+Cftr	abnormal small intestinal crypt cell physiology	22711878
+Cftr	increased respiratory mucosa goblet cell number	1380723
+Cftr	increased respiratory mucosa goblet cell number	7540910
+Cftr	postnatal lethality, incomplete penetrance	1355249|7685652
+Cftr	postnatal lethality, incomplete penetrance	8605891
+Cftr	postnatal lethality, incomplete penetrance	1380723
+Cftr	postnatal lethality, incomplete penetrance	7949729
+Cftr	postnatal lethality, incomplete penetrance	7505691
+Cftr	postnatal lethality, incomplete penetrance	7545494
+Cftr	postnatal lethality, incomplete penetrance	7560099
+Cftr	postnatal lethality, incomplete penetrance	8589719
+Cftr	abnormal Brunner's gland morphology	1380723
+Cftr	dilated Brunner's glands	7560099
+Cftr	lacrimal gland atrophy	7505691
+Cftr	abnormal trachea gland morphology	1380723
+Cftr	abnormal small intestine goblet cell morphology	8589719
+Cftr	abnormal colon goblet cell morphology	8589719
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7685652
+Cftr	decreased respiratory epithelial chloride transmembrane transport	15246977
+Cftr	decreased respiratory epithelial chloride transmembrane transport	1382232
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7505691
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7545494
+Cftr	decreased respiratory epithelial chloride transmembrane transport	8605891
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7556083
+Cftr	abnormal submucosal gland morphology	8605891
+Cftr	meconium ileus	7685652|1355249
+Cftr	meconium ileus	7949729
+Cftr	meconium ileus	7545494
+Cftr	meconium ileus	8589719
+Cftr	decreased small intestinal villus number	8605891
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	7685652
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	15246977
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	8605891
+Cftr	increased respiratory epithelial sodium ion transmembrane transport	8589719
+Cftr	decreased intestinal epithelial sodium ion transmembrane transport	8605891
+Cftr	decreased intestinal epithelial chloride transmembrane transport	1382232
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7505691
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7556083
+Cftr	dilated crypts of Lieberkuhn	7685652
+Cftr	dilated crypts of Lieberkuhn	7505691
+Cftr	dilated crypts of Lieberkuhn	8605891
+Cftr	intestinal mucus accumulation	7685652
+Cftr	intestinal mucus accumulation	7505691
+Cftr	pancreatic acinus dilation	10570187
+Cftr	bile duct epithelium hyperplasia	8605891
+Cftr	decreased neutrophil cell number	15246977
+Cftr	impaired fertilization	18325992
+Cftr	abnormal intestine morphology	7685652
+Cftr	abnormal intestine morphology	1380723
+Cftr	abnormal intestine morphology	7505691
+Cftr	abnormal intestine morphology	7560099
+Cftr	abnormal crypts of Lieberkuhn morphology	7685652
+Cftr	abnormal crypts of Lieberkuhn morphology	1380723
+Cftr	abnormal crypts of Lieberkuhn morphology	7482032
+Cftr	abnormal crypts of Lieberkuhn morphology	8589719
+Cftr	crypts of Lieberkuhn abscesses	7505691
+Cftr	abnormal colon morphology	7685652
+Cftr	abnormal colon morphology	1380723
+Cftr	abnormal colon morphology	1382232
+Cftr	abnormal colon morphology	7505691
+Cftr	abnormal small intestine morphology	7685652
+Cftr	abnormal intestinal mucosa morphology	8589719
+Cftr	abnormal intestinal mucosa morphology	8605891
+Cftr	intestinal ulcer	7505691
+Cftr	abnormal hepatocyte morphology	8605891
+Cftr	abnormal salivary gland morphology	8605891
+Cftr	spleen hyperplasia	1380723
+Cftr	small ovary	18325992
+Cftr	abnormal uterine cervix morphology	18325992
+Cftr	abnormal lung morphology	7540910
+Cftr	atelectasis	1382232
+Cftr	decreased body weight	7685652
+Cftr	decreased body weight	18325992
+Cftr	decreased body weight	7560099
+Cftr	decreased body weight	8605891
+Cftr	decreased body weight	7556083
+Cftr	weight loss	7505691
+Cftr	weight loss	8589719
+Cftr	decreased body size	1380723
+Cftr	decreased body size	7560099
+Cftr	decreased body size	7482032
+Cftr	decreased body size	8589719
+Cftr	decreased body size	8605891
+Cftr	distended abdomen	1380723
+Cftr	distended abdomen	7505691
+Cftr	abnormal lacrimal gland morphology	7685652
+Cftr	abnormal gait	1380723
+Cftr	aphagia	7505691
+Cftr	abnormal digestive system physiology	7560099
+Cftr	abnormal digestive system physiology	7482032
+Cftr	abnormal digestive system physiology	11823443
+Cftr	postnatal growth retardation	15246977
+Cftr	postnatal growth retardation	7505691
+Cftr	postnatal growth retardation	8589719
+Cftr	postnatal growth retardation	15246977|18325992
+Cftr	postnatal growth retardation	7556083
+Cftr	abnormal ion homeostasis	7560099
+Cftr	abnormal fluid regulation	7560099
+Cftr	abnormal thymus involution	1380723
+Cftr	lung inflammation	15246977|10570187
+Cftr	lung inflammation	15246977
+Cftr	lung inflammation	7540910
+Cftr	reduced female fertility	18325992
+Cftr	female infertility	1380723
+Cftr	female infertility	7482032
+Cftr	decreased litter size	18325992
+Cftr	delayed sexual maturation	18325992
+Cftr	abnormal pancreas morphology	1380723
+Cftr	abnormal pancreas morphology	7482032
+Cftr	premature death	1355249|7685652
+Cftr	premature death	1380723
+Cftr	premature death	7545494
+Cftr	premature death	7482032
+Cftr	abnormal respiratory system physiology	11823443
+Cftr	abnormal gland morphology	1380723
+Cftr	abnormal gland morphology	7505691
+Cftr	abnormal nasal mucosa morphology	1380723
+Cftr	abnormal paranasal sinus morphology	1380723
+Cftr	abnormal trachea morphology	1380723
+Cftr	increased susceptibility to infection	7685652
+Cftr	increased susceptibility to bacterial infection	7540910
+Cftr	small uterus	18325992
+Cftr	decreased corpora lutea number	18325992
+Cftr	abnormal pancreas physiology	7560099
+Cftr	abnormal vas deferens morphology	1382232
+Cftr	abnormal bile duct morphology	8605891
+Cftr	gallbladder inflammation	8605891
+Cftr	intestinal obstruction	1355249|7685652
+Cftr	intestinal obstruction	15246977
+Cftr	intestinal obstruction	1380723
+Cftr	intestinal obstruction	7505691
+Cftr	intestinal obstruction	7545494
+Cftr	intestinal obstruction	7560099
+Cftr	intestinal obstruction	7482032
+Cftr	intestinal obstruction	8589719
+Cftr	intestinal obstruction	8605891
+Cftr	peritoneal inflammation	7685652
+Cftr	peritoneal inflammation	1380723
+Cftr	peritoneal inflammation	7545494
+Cftr	peritoneal inflammation	7560099
+Cftr	peritoneal inflammation	8605891
+Cftr	acute pancreas inflammation	7505691
+Cftr	decreased ovulation rate	18325992
+Cftr	abnormal intestinal goblet cell morphology	7505691
+Cftr	abnormal intestinal goblet cell morphology	11823443
+Cftr	abnormal intestinal goblet cell morphology	7556083
+Cftr	abnormal intestinal goblet cell morphology	22711878
+Cftr	abnormal submandibular gland morphology	1380723
+Cftr	abnormal jejunum morphology	7560099
+Cftr	small pancreas	1380723
+Cftr	abnormal sperm physiology	18325992
+Cftr	abnormal phospholipid level	10570187
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal small intestine crypts of Lieberkuhn morphology	22711878
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7545494
+Cftr	abnormal large intestine crypts of Lieberkuhn morphology	7556083
+Cftr	decreased ovary weight	18325992
+Cftr	decreased uterus weight	18325992
+Cftr	abnormal gallbladder morphology	1380723
+Cftr	abnormal gallbladder physiology	7556083
+Cftr	cachexia	7505691
+Cftr	abnormal alveolar macrophage morphology	15246977
+Cftr	prolonged estrous cycle	18325992
+Cftr	absent estrous cycle	18325992
+Cftr	thin uterus	18325992
+Cftr	dilated pancreatic duct	7685652
+Cftr	pancreatic acinar cell atrophy	7505691
+Cftr	pancreatic acinar cell zymogen granule accumulation	10570187
+Cftr	enlarged gallbladder	7505691
+Cftr	enlarged gallbladder	8605891
+Cftr	dilated gallbladder	1380723
+Cftr	small cecum	1355249
+Cftr	coiled cecum	1380723
+Cftr	ileum hypertrophy	10570187
+Cftr	increased susceptibility to bacterial infection induced morbidity/mortality	15246977
+Cftr	abnormal intestine physiology	7545494
+Cftr	abnormal small intestinal crypt cell physiology	8589719
+Cftr	abnormal small intestinal crypt cell physiology	22711878
+Cftr	increased respiratory mucosa goblet cell number	1380723
+Cftr	increased respiratory mucosa goblet cell number	7540910
+Cftr	postnatal lethality, incomplete penetrance	1355249|7685652
+Cftr	postnatal lethality, incomplete penetrance	8605891
+Cftr	postnatal lethality, incomplete penetrance	1380723
+Cftr	postnatal lethality, incomplete penetrance	7949729
+Cftr	postnatal lethality, incomplete penetrance	7505691
+Cftr	postnatal lethality, incomplete penetrance	7545494
+Cftr	postnatal lethality, incomplete penetrance	7560099
+Cftr	postnatal lethality, incomplete penetrance	8589719
+Cftr	abnormal Brunner's gland morphology	1380723
+Cftr	dilated Brunner's glands	7560099
+Cftr	lacrimal gland atrophy	7505691
+Cftr	abnormal trachea gland morphology	1380723
+Cftr	abnormal small intestine goblet cell morphology	8589719
+Cftr	abnormal colon goblet cell morphology	8589719
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7685652
+Cftr	decreased respiratory epithelial chloride transmembrane transport	15246977
+Cftr	decreased respiratory epithelial chloride transmembrane transport	1382232
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7505691
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7545494
+Cftr	decreased respiratory epithelial chloride transmembrane transport	8605891
+Cftr	decreased respiratory epithelial chloride transmembrane transport	7556083
+Cftr	abnormal submucosal gland morphology	8605891
+Cftr	meconium ileus	7685652|1355249
+Cftr	meconium ileus	7949729
+Cftr	meconium ileus	7545494
+Cftr	meconium ileus	8589719
+Cftr	decreased small intestinal villus number	8605891
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	7685652
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	15246977
+Cftr	decreased respiratory epithelial sodium ion transmembrane transport	8605891
+Cftr	increased respiratory epithelial sodium ion transmembrane transport	8589719
+Cftr	decreased intestinal epithelial sodium ion transmembrane transport	8605891
+Cftr	decreased intestinal epithelial chloride transmembrane transport	1382232
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7505691
+Cftr	decreased intestinal epithelial chloride transmembrane transport	7556083
+Cftr	dilated crypts of Lieberkuhn	7685652
+Cftr	dilated crypts of Lieberkuhn	7505691
+Cftr	dilated crypts of Lieberkuhn	8605891
+Cftr	intestinal mucus accumulation	7685652
+Cftr	intestinal mucus accumulation	7505691
+Cftr	pancreatic acinus dilation	10570187
+Cftr	bile duct epithelium hyperplasia	8605891
+Tyk2	increased body weight	23217260
+Tyk2	obese	23217260
+Tyk2	increased circulating free fatty acid level	23217260
+Tyk2	abnormal body temperature homeostasis	23217260
+Tyk2	increased circulating insulin level	23217260
+Tyk2	abnormal brown adipose tissue morphology	23217260
+Tyk2	increased cholesterol level	23217260
+Tyk2	decreased energy expenditure	23217260
+Tyk2	impaired glucose tolerance	23217260
+Tyk2	abnormal mitochondrial physiology	23217260
+Tyk2	impaired adaptive thermogenesis	23217260
+Tyk2	abnormal fat cell differentiation	23217260
+Tyk2	disorganized mitochondrial cristae	23217260
+Tyk2	increased body weight	23217260
+Tyk2	obese	23217260
+Tyk2	increased circulating free fatty acid level	23217260
+Tyk2	abnormal body temperature homeostasis	23217260
+Tyk2	increased circulating insulin level	23217260
+Tyk2	abnormal brown adipose tissue morphology	23217260
+Tyk2	increased cholesterol level	23217260
+Tyk2	decreased energy expenditure	23217260
+Tyk2	impaired glucose tolerance	23217260
+Tyk2	abnormal mitochondrial physiology	23217260
+Tyk2	impaired adaptive thermogenesis	23217260
+Tyk2	abnormal fat cell differentiation	23217260
+Tyk2	disorganized mitochondrial cristae	23217260
+Tyk2	increased body weight	23217260
+Tyk2	obese	23217260
+Tyk2	increased circulating free fatty acid level	23217260
+Tyk2	abnormal body temperature homeostasis	23217260
+Tyk2	increased circulating insulin level	23217260
+Tyk2	abnormal brown adipose tissue morphology	23217260
+Tyk2	increased cholesterol level	23217260
+Tyk2	decreased energy expenditure	23217260
+Tyk2	impaired glucose tolerance	23217260
+Tyk2	abnormal mitochondrial physiology	23217260
+Tyk2	impaired adaptive thermogenesis	23217260
+Tyk2	abnormal fat cell differentiation	23217260
+Tyk2	disorganized mitochondrial cristae	23217260
+Tyk2	increased body weight	23217260
+Tyk2	obese	23217260
+Tyk2	increased circulating free fatty acid level	23217260
+Tyk2	abnormal body temperature homeostasis	23217260
+Tyk2	increased circulating insulin level	23217260
+Tyk2	abnormal brown adipose tissue morphology	23217260
+Tyk2	increased cholesterol level	23217260
+Tyk2	decreased energy expenditure	23217260
+Tyk2	impaired glucose tolerance	23217260
+Tyk2	abnormal mitochondrial physiology	23217260
+Tyk2	impaired adaptive thermogenesis	23217260
+Tyk2	abnormal fat cell differentiation	23217260
+Tyk2	disorganized mitochondrial cristae	23217260
+Tyk2	increased body weight	23217260
+Tyk2	obese	23217260
+Tyk2	increased circulating free fatty acid level	23217260
+Tyk2	abnormal body temperature homeostasis	23217260
+Tyk2	increased circulating insulin level	23217260
+Tyk2	abnormal brown adipose tissue morphology	23217260
+Tyk2	increased cholesterol level	23217260
+Tyk2	decreased energy expenditure	23217260
+Tyk2	impaired glucose tolerance	23217260
+Tyk2	abnormal mitochondrial physiology	23217260
+Tyk2	impaired adaptive thermogenesis	23217260
+Tyk2	abnormal fat cell differentiation	23217260
+Tyk2	disorganized mitochondrial cristae	23217260
+Tyk2	increased body weight	23217260
+Tyk2	obese	23217260
+Tyk2	increased circulating free fatty acid level	23217260
+Tyk2	abnormal body temperature homeostasis	23217260
+Tyk2	increased circulating insulin level	23217260
+Tyk2	abnormal brown adipose tissue morphology	23217260
+Tyk2	increased cholesterol level	23217260
+Tyk2	decreased energy expenditure	23217260
+Tyk2	impaired glucose tolerance	23217260
+Tyk2	abnormal mitochondrial physiology	23217260
+Tyk2	impaired adaptive thermogenesis	23217260
+Tyk2	abnormal fat cell differentiation	23217260
+Tyk2	disorganized mitochondrial cristae	23217260
+Tyk2	increased body weight	23217260
+Tyk2	obese	23217260
+Tyk2	increased circulating free fatty acid level	23217260
+Tyk2	abnormal body temperature homeostasis	23217260
+Tyk2	increased circulating insulin level	23217260
+Tyk2	abnormal brown adipose tissue morphology	23217260
+Tyk2	increased cholesterol level	23217260
+Tyk2	decreased energy expenditure	23217260
+Tyk2	impaired glucose tolerance	23217260
+Tyk2	abnormal mitochondrial physiology	23217260
+Tyk2	impaired adaptive thermogenesis	23217260
+Tyk2	abnormal fat cell differentiation	23217260
+Tyk2	disorganized mitochondrial cristae	23217260
+Tyk2	increased body weight	23217260
+Tyk2	obese	23217260
+Tyk2	increased circulating free fatty acid level	23217260
+Tyk2	abnormal body temperature homeostasis	23217260
+Tyk2	increased circulating insulin level	23217260
+Tyk2	abnormal brown adipose tissue morphology	23217260
+Tyk2	increased cholesterol level	23217260
+Tyk2	decreased energy expenditure	23217260
+Tyk2	impaired glucose tolerance	23217260
+Tyk2	abnormal mitochondrial physiology	23217260
+Tyk2	impaired adaptive thermogenesis	23217260
+Tyk2	abnormal fat cell differentiation	23217260
+Tyk2	disorganized mitochondrial cristae	23217260
+Tyk2	increased body weight	23217260
+Tyk2	obese	23217260
+Tyk2	increased circulating free fatty acid level	23217260
+Tyk2	abnormal body temperature homeostasis	23217260
+Tyk2	increased circulating insulin level	23217260
+Tyk2	abnormal brown adipose tissue morphology	23217260
+Tyk2	increased cholesterol level	23217260
+Tyk2	decreased energy expenditure	23217260
+Tyk2	impaired glucose tolerance	23217260
+Tyk2	abnormal mitochondrial physiology	23217260
+Tyk2	impaired adaptive thermogenesis	23217260
+Tyk2	abnormal fat cell differentiation	23217260
+Tyk2	disorganized mitochondrial cristae	23217260
+Tyk2	increased body weight	23217260
+Tyk2	obese	23217260
+Tyk2	increased circulating free fatty acid level	23217260
+Tyk2	abnormal body temperature homeostasis	23217260
+Tyk2	increased circulating insulin level	23217260
+Tyk2	abnormal brown adipose tissue morphology	23217260
+Tyk2	increased cholesterol level	23217260
+Tyk2	decreased energy expenditure	23217260
+Tyk2	impaired glucose tolerance	23217260
+Tyk2	abnormal mitochondrial physiology	23217260
+Tyk2	impaired adaptive thermogenesis	23217260
+Tyk2	abnormal fat cell differentiation	23217260
+Tyk2	disorganized mitochondrial cristae	23217260
+Tyk2	increased body weight	23217260
+Tyk2	obese	23217260
+Tyk2	increased circulating free fatty acid level	23217260
+Tyk2	abnormal body temperature homeostasis	23217260
+Tyk2	increased circulating insulin level	23217260
+Tyk2	abnormal brown adipose tissue morphology	23217260
+Tyk2	increased cholesterol level	23217260
+Tyk2	decreased energy expenditure	23217260
+Tyk2	impaired glucose tolerance	23217260
+Tyk2	abnormal mitochondrial physiology	23217260
+Tyk2	impaired adaptive thermogenesis	23217260
+Tyk2	abnormal fat cell differentiation	23217260
+Tyk2	disorganized mitochondrial cristae	23217260
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Ahr	abnormal urinary bladder morphology	22232670
+Ahr	abnormal urinary bladder urothelium morphology	22232670
+Ahr	disorganized retinal layers	23301081
+Ahr	postnatal growth retardation	9427285
+Ahr	decreased physiological sensitivity to xenobiotic	9427285
+Ahr	abnormal xenobiotic pharmacokinetics	12646173
+Ahr	increased urinary bladder carcinoma incidence	22232670
+Ahr	abnormal optokinetic reflex	23301081
+Ahr	urinary bladder inflammation	22232670
+Ahr	increased urine uric acid level	22232670
+Ahr	abnormal horizontal vestibuloocular reflex	23301081
+Ahr	cystolithiasis	22232670
+Ahr	urinary bladder fibrosis	22232670
+Ahr	abnormal urinary bladder blood vessel morphology	22232670
+Nos1	abnormal liver morphology	18206129|16246868
+Nos1	abnormal hepatocyte morphology	18206129
+Nos1	abnormal motor neuron morphology	9852587
+Nos1	decreased body weight	10652188
+Nos1	increased aggression towards males	7477374
+Nos1	increased aggression towards females	7477374
+Nos1	abnormal mating frequency	7477374
+Nos1	impaired balance	10077313
+Nos1	absent long term depression	10456061
+Nos1	abnormal ovulation	9848082
+Nos1	abnormal breathing pattern	9679181
+Nos1	premature death	12788381|7505721
+Nos1	premature death	16024729
+Nos1	abnormal muscle physiology	11992469
+Nos1	abnormal muscle physiology	10677545
+Nos1	abnormal blood circulation	12623792
+Nos1	abnormal brain morphology	16246868
+Nos1	abnormal long term potentiation	7518615
+Nos1	abnormal neutrophil physiology	10362674
+Nos1	heart left ventricle hypertrophy	11907582
+Nos1	abnormal renal tubule morphology	16246868
+Nos1	decreased heart weight	10652188
+Nos1	decreased coronary flow rate	10652188
+Nos1	pyloric stenosis	7505721
+Nos1	abnormal leukocyte adhesion	10362674
+Nos1	abnormal nervous system physiology	11992469
+Nos1	abnormal nervous system physiology	15381772
+Nos1	enlarged stomach	7505721
+Nos1	abnormal muscle relaxation	10677545|10444441
+Nos1	abnormal cardiac muscle relaxation	12081996
+Nos1	abnormal peripheral nervous system regeneration	11992469
+Nos1	altered response of heart to induced stress	10652188
+Nos1	decreased synaptic glutamate release	9692709
+Nos1	abnormal vascular wound healing	12397095
+Nos1	decreased cardiac muscle contractility	11907582
+Nos1	decreased susceptibility to injury	15381772
+Nos1	abnormal oxygen consumption	9679181
+Nos1	increased oxygen consumption	9679181
+Nos1	insulin resistance	10905473
+Nos1	abnormal pulmonary respiratory rate	9679181
+Nos1	increased pulmonary respiratory rate	9679181
+Nos1	increased pulmonary ventilation	9679181
+Nos1	increased tidal volume	9679181
+Nos1	increased ventricle muscle contractility	12081996
+Nos1	abnormal mitochondrial physiology	16246868
+Nos1	decreased cerebral infarction size	7522345
+Nos1	abnormal dendrite morphology	9852587
+Nos1	decreased susceptibility to neuronal excitotoxicity	8667023
+Nos1	decreased survivor rate	12788381
+Nos1	decreased survivor rate	16024729
+Nos1	increased physiological sensitivity to xenobiotic	9679181
+Nos1	abnormal carbon dioxide production	9679181
+Nos1	decreased sensitivity to induced morbidity/mortality	9679181
+Nos1	abnormal gastroesophageal sphincter physiology	11438492|10444441
+Nos1	pyloric sphincter hypertrophy	7505721
+Nos1	stomach smooth muscle circular layer hypertrophy	7505721
+Nos1	abnormal stomach wall morphology	7505721
+Nos1	enhanced leukocyte tethering or rolling	10362674
+Nos1	abnormal liver morphology	18206129|16246868
+Nos1	abnormal hepatocyte morphology	18206129
+Nos1	abnormal motor neuron morphology	9852587
+Nos1	decreased body weight	10652188
+Nos1	increased aggression towards males	7477374
+Nos1	increased aggression towards females	7477374
+Nos1	abnormal mating frequency	7477374
+Nos1	impaired balance	10077313
+Nos1	absent long term depression	10456061
+Nos1	abnormal ovulation	9848082
+Nos1	abnormal breathing pattern	9679181
+Nos1	premature death	12788381|7505721
+Nos1	premature death	16024729
+Nos1	abnormal muscle physiology	11992469
+Nos1	abnormal muscle physiology	10677545
+Nos1	abnormal blood circulation	12623792
+Nos1	abnormal brain morphology	16246868
+Nos1	abnormal long term potentiation	7518615
+Nos1	abnormal neutrophil physiology	10362674
+Nos1	heart left ventricle hypertrophy	11907582
+Nos1	abnormal renal tubule morphology	16246868
+Nos1	decreased heart weight	10652188
+Nos1	decreased coronary flow rate	10652188
+Nos1	pyloric stenosis	7505721
+Nos1	abnormal leukocyte adhesion	10362674
+Nos1	abnormal nervous system physiology	11992469
+Nos1	abnormal nervous system physiology	15381772
+Nos1	enlarged stomach	7505721
+Nos1	abnormal muscle relaxation	10677545|10444441
+Nos1	abnormal cardiac muscle relaxation	12081996
+Nos1	abnormal peripheral nervous system regeneration	11992469
+Nos1	altered response of heart to induced stress	10652188
+Nos1	decreased synaptic glutamate release	9692709
+Nos1	abnormal vascular wound healing	12397095
+Nos1	decreased cardiac muscle contractility	11907582
+Nos1	decreased susceptibility to injury	15381772
+Nos1	abnormal oxygen consumption	9679181
+Nos1	increased oxygen consumption	9679181
+Nos1	insulin resistance	10905473
+Nos1	abnormal pulmonary respiratory rate	9679181
+Nos1	increased pulmonary respiratory rate	9679181
+Nos1	increased pulmonary ventilation	9679181
+Nos1	increased tidal volume	9679181
+Nos1	increased ventricle muscle contractility	12081996
+Nos1	abnormal mitochondrial physiology	16246868
+Nos1	decreased cerebral infarction size	7522345
+Nos1	abnormal dendrite morphology	9852587
+Nos1	decreased susceptibility to neuronal excitotoxicity	8667023
+Nos1	decreased survivor rate	12788381
+Nos1	decreased survivor rate	16024729
+Nos1	increased physiological sensitivity to xenobiotic	9679181
+Nos1	abnormal carbon dioxide production	9679181
+Nos1	decreased sensitivity to induced morbidity/mortality	9679181
+Nos1	abnormal gastroesophageal sphincter physiology	11438492|10444441
+Nos1	pyloric sphincter hypertrophy	7505721
+Nos1	stomach smooth muscle circular layer hypertrophy	7505721
+Nos1	abnormal stomach wall morphology	7505721
+Nos1	enhanced leukocyte tethering or rolling	10362674
+Nos1	abnormal liver morphology	18206129|16246868
+Nos1	abnormal hepatocyte morphology	18206129
+Nos1	abnormal motor neuron morphology	9852587
+Nos1	decreased body weight	10652188
+Nos1	increased aggression towards males	7477374
+Nos1	increased aggression towards females	7477374
+Nos1	abnormal mating frequency	7477374
+Nos1	impaired balance	10077313
+Nos1	absent long term depression	10456061
+Nos1	abnormal ovulation	9848082
+Nos1	abnormal breathing pattern	9679181
+Nos1	premature death	12788381|7505721
+Nos1	premature death	16024729
+Nos1	abnormal muscle physiology	11992469
+Nos1	abnormal muscle physiology	10677545
+Nos1	abnormal blood circulation	12623792
+Nos1	abnormal brain morphology	16246868
+Nos1	abnormal long term potentiation	7518615
+Nos1	abnormal neutrophil physiology	10362674
+Nos1	heart left ventricle hypertrophy	11907582
+Nos1	abnormal renal tubule morphology	16246868
+Nos1	decreased heart weight	10652188
+Nos1	decreased coronary flow rate	10652188
+Nos1	pyloric stenosis	7505721
+Nos1	abnormal leukocyte adhesion	10362674
+Nos1	abnormal nervous system physiology	11992469
+Nos1	abnormal nervous system physiology	15381772
+Nos1	enlarged stomach	7505721
+Nos1	abnormal muscle relaxation	10677545|10444441
+Nos1	abnormal cardiac muscle relaxation	12081996
+Nos1	abnormal peripheral nervous system regeneration	11992469
+Nos1	altered response of heart to induced stress	10652188
+Nos1	decreased synaptic glutamate release	9692709
+Nos1	abnormal vascular wound healing	12397095
+Nos1	decreased cardiac muscle contractility	11907582
+Nos1	decreased susceptibility to injury	15381772
+Nos1	abnormal oxygen consumption	9679181
+Nos1	increased oxygen consumption	9679181
+Nos1	insulin resistance	10905473
+Nos1	abnormal pulmonary respiratory rate	9679181
+Nos1	increased pulmonary respiratory rate	9679181
+Nos1	increased pulmonary ventilation	9679181
+Nos1	increased tidal volume	9679181
+Nos1	increased ventricle muscle contractility	12081996
+Nos1	abnormal mitochondrial physiology	16246868
+Nos1	decreased cerebral infarction size	7522345
+Nos1	abnormal dendrite morphology	9852587
+Nos1	decreased susceptibility to neuronal excitotoxicity	8667023
+Nos1	decreased survivor rate	12788381
+Nos1	decreased survivor rate	16024729
+Nos1	increased physiological sensitivity to xenobiotic	9679181
+Nos1	abnormal carbon dioxide production	9679181
+Nos1	decreased sensitivity to induced morbidity/mortality	9679181
+Nos1	abnormal gastroesophageal sphincter physiology	11438492|10444441
+Nos1	pyloric sphincter hypertrophy	7505721
+Nos1	stomach smooth muscle circular layer hypertrophy	7505721
+Nos1	abnormal stomach wall morphology	7505721
+Nos1	enhanced leukocyte tethering or rolling	10362674
+Nos1	abnormal liver morphology	18206129|16246868
+Nos1	abnormal hepatocyte morphology	18206129
+Nos1	abnormal motor neuron morphology	9852587
+Nos1	decreased body weight	10652188
+Nos1	increased aggression towards males	7477374
+Nos1	increased aggression towards females	7477374
+Nos1	abnormal mating frequency	7477374
+Nos1	impaired balance	10077313
+Nos1	absent long term depression	10456061
+Nos1	abnormal ovulation	9848082
+Nos1	abnormal breathing pattern	9679181
+Nos1	premature death	12788381|7505721
+Nos1	premature death	16024729
+Nos1	abnormal muscle physiology	11992469
+Nos1	abnormal muscle physiology	10677545
+Nos1	abnormal blood circulation	12623792
+Nos1	abnormal brain morphology	16246868
+Nos1	abnormal long term potentiation	7518615
+Nos1	abnormal neutrophil physiology	10362674
+Nos1	heart left ventricle hypertrophy	11907582
+Nos1	abnormal renal tubule morphology	16246868
+Nos1	decreased heart weight	10652188
+Nos1	decreased coronary flow rate	10652188
+Nos1	pyloric stenosis	7505721
+Nos1	abnormal leukocyte adhesion	10362674
+Nos1	abnormal nervous system physiology	11992469
+Nos1	abnormal nervous system physiology	15381772
+Nos1	enlarged stomach	7505721
+Nos1	abnormal muscle relaxation	10677545|10444441
+Nos1	abnormal cardiac muscle relaxation	12081996
+Nos1	abnormal peripheral nervous system regeneration	11992469
+Nos1	altered response of heart to induced stress	10652188
+Nos1	decreased synaptic glutamate release	9692709
+Nos1	abnormal vascular wound healing	12397095
+Nos1	decreased cardiac muscle contractility	11907582
+Nos1	decreased susceptibility to injury	15381772
+Nos1	abnormal oxygen consumption	9679181
+Nos1	increased oxygen consumption	9679181
+Nos1	insulin resistance	10905473
+Nos1	abnormal pulmonary respiratory rate	9679181
+Nos1	increased pulmonary respiratory rate	9679181
+Nos1	increased pulmonary ventilation	9679181
+Nos1	increased tidal volume	9679181
+Nos1	increased ventricle muscle contractility	12081996
+Nos1	abnormal mitochondrial physiology	16246868
+Nos1	decreased cerebral infarction size	7522345
+Nos1	abnormal dendrite morphology	9852587
+Nos1	decreased susceptibility to neuronal excitotoxicity	8667023
+Nos1	decreased survivor rate	12788381
+Nos1	decreased survivor rate	16024729
+Nos1	increased physiological sensitivity to xenobiotic	9679181
+Nos1	abnormal carbon dioxide production	9679181
+Nos1	decreased sensitivity to induced morbidity/mortality	9679181
+Nos1	abnormal gastroesophageal sphincter physiology	11438492|10444441
+Nos1	pyloric sphincter hypertrophy	7505721
+Nos1	stomach smooth muscle circular layer hypertrophy	7505721
+Nos1	abnormal stomach wall morphology	7505721
+Nos1	enhanced leukocyte tethering or rolling	10362674
