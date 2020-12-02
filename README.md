@@ -1,3 +1,5 @@
+![](Example results/mmap.png)
+
 # Introduction
 
    Python implementation of Mouse Genome Phenotype to Genotype mapping method for the prioritizing the genetic candidates based on the protein functional and          genomic regulatory features
