@@ -3,7 +3,7 @@
 
 # Introduction
 
-   Python implementation of Mouse Genome Phenotype to Genotype mapping method for the prioritizing the genetic candidates based on the protein functional and          genomic regulatory features
+   Python implementation of Mouse Genome Genotype to Phenotype mapping method for the prioritizing the genetic candidates based on the protein functional and          genomic regulatory features
 
 # installation
    
