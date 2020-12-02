@@ -10,7 +10,7 @@
    pip install -i https://test.pypi.org/simple/ mgMap==0.0.2 --target=/path/where/to/install/ && cd mgmap
             
             
-# instructions
+# usage
             
    python3 mgmap.py -g filename.txt (see *Exmaple* datafiles "gene.txt" for exact format)
    
