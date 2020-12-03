@@ -22,7 +22,10 @@
    The Functional data folder contains a help file for more information
       
    The Regulatory data folder contains a help file for more information
-         
+
+# usage
+   For details of output, see [Wiki](https://github.com/PeltzLab-Stanford/mMap/wiki/working-with-mgMap)  
+
 # compatibility
 
    The package is compatibility with both Windows and Mac setup. 
