@@ -23,8 +23,8 @@
       
    The Regulatory data folder contains a help file for more information
 
-# usage
-   For details of output, see [Wiki](https://github.com/PeltzLab-Stanford/mMap/wiki/working-with-mgMap)  
+# output
+   For details of output files, see [Wiki](https://github.com/PeltzLab-Stanford/mMap/wiki/working-with-mgMap)  
 
 # compatibility
 
